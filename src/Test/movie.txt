@@ -1,0 +1,300 @@
+1	Toy story
+2	Jumanji
+3	Grumpy Old Men
+4	Waiting to Exhale
+5	Father of the Bride Part II
+6	Heat
+7	Sabrina
+8	Tom and Huck
+9	Sudden Death
+10	GoldenEye
+11	The American President
+12	Dracula: Dead and Loving It
+13	Balto
+14	Nixon
+15	Cutthroat Island
+16	Casino
+17	Sense and Sensibility
+18	Four Rooms
+19	Ace Ventura: When Nature Calls
+20	Money Train
+21	Get Shorty
+22	Copycat
+23	Ninja Assassin
+24	Powder
+25	Leaving Las Vegas
+26	Othello
+27	Now and Then
+28	Persuasion
+29	La cit?des enfants perdus
+30	Yao a yao yao dao waipo qiao
+31	Dangerous Minds
+32	Twelve Monkeys
+33	Wings of Courage
+34	Babe
+35	Carrington
+36	Dead Man Walking
+37	Across the Sea of Time
+38	It Takes Two
+39	Clueless
+40,"Cry	 the Beloved Country"
+41	Richard III
+42	Dead Presidents
+43	Restoration
+44	Mortal Kombat
+45	Live Free or Die Hard
+46	How to Make an American Quilt
+47	Shichinin no samurai
+48	Pocahontas
+49	When Night Is Falling
+50	The Usual Suspects
+51	Mighty Aphrodite
+52	Lamerica
+53	The Big Green
+54	Georgia Rule
+55	Kids of the Round Table
+56	Home for the Holidays
+57	Il postino
+58	Le confessionnal
+59	The Indian in the Cupboard
+60	Eye for an Eye
+61	Mr. Holland's Opus
+62	Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+63	Two If by Sea
+64	Bio-Dome
+65	Lawnmower Man 2: Beyond Cyberspace
+66	Two Bits
+67	Gazon maudit
+68	Friday
+69	From Dusk Till Dawn
+70	Fair Game
+71	Kicking & Screaming
+72	Les misérables
+73	Bed of Roses
+74	Big Bully
+75	Screamers
+76	Nico Icon
+77	The Crossing Guard
+78	The Juror
+79	Badkonake sefid
+80	Things to Do in Denver When You're Dead
+81	Antonia
+82	Once Upon a Time... When We Were Colored
+83	Last Summer in the Hamptons
+84	Angels and Insects
+85	White Squall
+86	Dunston Checks In
+87	Black Sheep
+88	Nick of Time
+89	The Journey of August King
+90	Mary Reilly
+91	Vampire in Brooklyn
+92	Beautiful Girls
+93	Broken Arrow
+94	In the Bleak Midwinter
+95	La haine
+96	Going Shopping
+97	Heidi Fleiss: Hollywood Madam
+98	City Hall
+99	Bottle Rocket
+100	Mr. Wrong
+101	Unforgettable
+102	Happy Gilmore
+103	The Bridges of Madison County
+104	Keiner liebt mich
+105	Muppet Treasure Island
+106	Braveheart
+107	Taxi Driver
+108	Hung fan kui
+109	Before and After
+110	Margaret's Museum
+111	Le bonheur est dans le pr?0112556
+112	Anne Frank Remembered
+113	The Young Poisoner's Handbook
+114	If Lucy Fell
+115	Steal Big Steal Little
+116	Race the Sun
+117	The Boys of St. Vincent
+118	Boomerang
+119	Chung Hing sam lam
+120	L'uomo delle stelle
+121	Flirting with Disaster
+122	The Neverending Story III
+123	Jupiter's Wife
+124	Pie in the Sky
+125	Angela's Ashes
+126	Frankie Starlight
+127	The Curse of the Jade Scorpion
+128	Sonic Outlaws
+129	Down Periscope
+130	From the Journals of Jean Seberg
+131	Man of the Year
+132	Hard Target
+133	Up Close & Personal
+134	The Birdcage
+135	Gospa
+136	The Brothers McMullen
+137	Bad Boys
+138	The Amazing Panda Adventure
+139	The Basketball Diaries
+140	An Awfully Big Adventure
+141	The Moguls
+142	Apollo 13
+143	Rob Roy
+144	Basic Instinct 2
+145	Batman Forever
+146	Belle de jour
+147	Beyond Rangoon
+148	Blue in the Face
+149	Canadian Bacon
+150	Casper
+151	Clockers
+152	Congo
+153	Crimson Tide
+154	Crumb
+155	Desperado
+156	Devil in a Blue Dress
+157	Die Hard: With a Vengeance
+158	The Doom Generation
+159	Feast of July
+160	First Knight
+161	Free Willy 2: The Adventure Home
+162	Hackers
+163	Jeffrey
+164	Johnny Mnemonic
+165	Judge Dredd
+166	Jury Duty
+167	Kids
+168	Living in Oblivion
+169	Lord of Illusions
+170	Love & Human Remains
+171	Mad Love
+172	Mallrats
+173	Mighty Morphin Power Rangers: The Movie
+174	Moonlight and Valentino
+175	Mute Witness
+176	Nadja
+177	The Net
+178	Nine Months
+179	Party Girl
+180	The Prophecy
+181	The Reckless Moment
+182	Fail-Safe
+183	The Scarlet Letter
+184	Showgirls
+185	Smoke
+186	Something to Talk About
+187	Species
+188	The Stars Fell on Henrietta
+189	Strange Days
+190	Les parapluies de Cherbourg
+191	The Tie That Binds
+192	Three Wishes
+193	Total Eclipse
+194,"To Wong Foo Thanks for Everything	 Julie Newmar"
+195	Under Siege 2: Dark Territory
+196	Unstrung Heroes
+197	Unzipped
+198	A Walk in the Clouds
+199	Waterworld
+200	White Man's Burden
+201	Wild Bill
+202	The Browning Version
+203	Bushwhacked
+204	Utomlyonnye solntsem
+205	Before the Rain
+206	Before Sunrise
+207	Billy Madison
+208	The Babysitters
+209	Boys on the Side
+210	The Cure
+211	Castle Freak
+212	Circle of Friends
+213	Clerks.
+214	Don Juan DeMarco
+215	Disclosure
+216	Tucker: The Man and His Dream
+217	Drop Zone
+218	Destiny Turns on the Radio
+219	Death and the Maiden
+220	Dolores Claiborne
+221	Dumb & Dumber
+222	Yin shi nan nu
+223	Exotica
+224	Exit to Eden
+225	Ed Wood
+226	French Kiss
+227	Forget Paris
+228	Far from Home: The Adventures of Yellow Dog
+229	A Goofy Movie
+230	Hideaway
+231	Fluke
+232	Farinelli
+233	Flash Gordon
+234	Gumby: The Movie
+235	The Glass Shield
+236	Hoop Dreams
+237	Heavenly Creatures
+238	Houseguest
+239	Immortal Beloved
+240	Heavy Weights
+241	The Hunted
+242	I.Q.
+243	Interview with the Vampire: The Vampire Chronicles
+244	Jefferson in Paris
+245	The Jerky Boys
+246	Junior
+247	Just Cause
+248	A Kid in King Arthur's Court
+249	Kiss of Death
+250	Star Wars
+251	Little Women
+252	A Little Princess
+253	Ladybird Ladybird
+254	L'enfer
+255	Como agua para chocolate
+256	Legends of the Fall
+257	Major Payne
+258	Little Odessa
+259	Mi vida loca
+260	Love Affair
+261	Losing Isaiah
+262	The Madness of King George
+263	Frankenstein
+264	Man of the House
+265	Mixed Nuts
+266	Milk Money
+267	Miracle on 34th Street
+268	Miami Rhapsody
+269	My Family
+270	Murder in the First
+271	Nobody's Fool
+272	Nell
+273	New Jersey Drive
+274	Ny?Yôku no koppu
+275	Beyond Bedlam
+276	Nemesis 2: Nebula
+277	Nina Takes a Lover
+278	Natural Born Killers
+279	Only You
+280	Once Were Warriors
+281	Poison Ivy II
+282	Outbreak
+283	Léon
+284	The Perez Family
+285	A Pyromaniac's Love Story
+286	Pulp Fiction
+287	The Pink Panther 2
+288	Tui shou
+289	Priest
+290	Quiz Show
+291	Picture Bride
+292	La reine Margot
+293	The Quick and the Dead
+294	Roommates
+295	Prêt-?Porter
+296	Trois couleurs: Rouge
+297	Trois couleurs: Bleu
+298	Trzy kolory: Bialy
+299	Pao Da Shuang Deng
+300	Rent-a-Kid

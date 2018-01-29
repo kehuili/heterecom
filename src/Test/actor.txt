@@ -1,0 +1,5850 @@
+70000	Annie Potts
+70001	Bill Farmer
+70002	Don Rickles
+70003	Erik von Detten
+70004	Greg Berg
+70005	Jack Angel
+70006	Jan Rabson
+70007	Jim Varney
+70008	Joan Cusack
+70009	Joe Ranft
+70010	John Morris
+70011	John Ratzenberger
+70012	Kendall Cunningham
+70013	Laurie Metcalf
+70014	Patrick Pinney
+70015	Penn Jillette
+70016	Philip Proctor
+70017	R. Lee Ermey
+70018	Sarah Freeman
+70019	Scott McAfee
+70020	Sherry Lynn
+70021	Tim Allen
+70022	Tom Hanks
+70023	Wallace Shawn
+70024	Peter Bryant
+70025	Adam Hann-Byrd
+70026	Bebe Neuwirth
+70027	Bonnie Hunt
+70028	Bradley Pierce
+70029	Darryl Henriques
+70030	David Alan Grier
+70031	David Hyde Pierce
+70032	Gillian Barber
+70033	James Handy
+70034	Jonathan Hyde
+70035	Kirsten Dunst
+70036	Laura Bell Bundy
+70037	Lloyd Berry
+70038	Malcolm Stewart
+70039	Patricia Clarkson
+70040	Robin Driscoll
+70041	Robin Williams
+70042	Ann-Margret
+70043	Buck Henry
+70044	Buffy Sedlachek
+70045	Burgess Meredith
+70046	Christopher McDonald
+70047	Daryl Hannah
+70048	Isabell Monk
+70049	Jack Lemmon
+70050	Joe Howard
+70051	John Carroll Lynch
+70052	Kevin Pollak
+70053	Ollie Osterberg
+70054	Ossie Davis
+70055	Sharon Howard-Field
+70056	Steve Cochran
+70057	Walter Matthau
+70058	Leon
+70059	Angela Bassett
+70060	Brandon Hammond
+70061	Dennis Haysbert
+70062	Donald Faison
+70063	Ezra Swerdlow
+70064	Giancarlo Esposito
+70065	Graham Galloway
+70066	Gregory Hines
+70067	Jeffrey D. Sams
+70068	Lamont Johnson
+70069	Lela Rochon
+70070	Loretta Devine
+70071	Michael Beach
+70072	Mykelti Williamson
+70073	Starletta DuPois
+70074	Wendell Pierce
+70075	Wesley Snipes
+70076	Whitney Houston
+70077	Wren T. Brown
+70078	Ann Walker
+70079	Annie Meyers-Shyer
+70080	April Ortiz
+70081	B.D. Wong
+70082	Caroline Lagerfelt
+70083	Diane Keaton
+70084	Eugene Levy
+70085	George Newbern
+70086	Hallie Meyers-Shyer
+70087	Harris Laskaway
+70088	Jane Adams (II)
+70089	Jonathan Emerson
+70090	Kate McGregor-Stewart
+70091	K.C. Colwell
+70092	Kieran Culkin
+70093	Kimberly Williams
+70094	Linda de Scenna
+70095	Martin Short
+70096	Mychael Bates
+70097	Peter Michael Goetz
+70098	Seth Kaplan
+70099	Shannon Kennedy
+70100	Steve Martin
+70101	Susan Beaubian
+70102	Tony Simotes
+70103	Wendy Worthington
+70104	Al Pacino
+70105	Amy Brenneman
+70106	Ashley Judd
+70107	Begonia Plaza
+70108	Bill McIntosh
+70109	Brian Libby
+70110	Bud Cort
+70111	Dan Martin
+70112	Daniel O'Haco
+70113	Danny Trejo
+70114	Diane Venora
+70115	Farrah Forke
+70116	Hank Azaria
+70117	Hazelle Goodman
+70118	Henry Rollins
+70119	Jeremy Piven
+70120	Jerry Trimble
+70121	Jon Voight
+70122	Kai Soremekun
+70123	Kenny Endoso
+70124	Kevin Gage
+70125	Kim Staunton
+70126	Kimberly Flynn
+70127	Mario Roberts
+70128	Martin Ferrero
+70129	Natalie Portman
+70130	Niki Harris
+70131	Patricia Healy
+70132	Paul Herman
+70133	Ray Buktenica
+70134	Rick Avery
+70135	Rick Marzan
+70136	Robert De Niro
+70137	Steven Ford
+70138	Susan Traylor
+70139	Ted Levine
+70140	Terry Miller
+70141	Thomas Rosales Jr.
+70142	Tom Noonan
+70143	Tom Sizemore
+70144	Tone-Loc
+70145	Val Kilmer
+70146	Wes Studi
+70147	William Fichtner
+70148	Xander Berkeley
+70149	Colin Campbell
+70150	John Williams (II)
+70151	Paul Harvey
+70152	Audrey Hepburn
+70153	Bill Neff
+70154	Charles Harvey
+70155	David Ahdar
+70156	Ellen Corby
+70157	Emmett Vogan
+70158	Emory Parnell
+70159	Francis X. Bushman
+70160	Harvey B. Dunn
+70161	Humphrey Bogart
+70162	Joan Vohs
+70163	Kay Riehl
+70164	Kay E. Kuter
+70165	Marcel Dalio
+70166	Marcel Hillaire
+70167	Marion Ross
+70168	Marjorie Bennett
+70169	Martha Hyer
+70170	Nancy Kulp
+70171	Nella Walker
+70172	Otto Forrest
+70173	Rand Harper
+70174	Walter Hampden
+70175	William Holden
+70176	William Newman
+70177	Marian Seldes
+70178	Amy Wright
+70179	Blake Heron
+70180	Brad Renfro
+70181	Charles Rocket
+70182	Courtland Mead
+70183	Eric Schweig
+70184	Heath Lamberts
+70185	Jonathan Taylor Thomas
+70186	Kellen Hathaway
+70187	Lanny Flaherty
+70188	Michael McShane
+70189	Peter Mackenzie
+70190	Rachael Leigh Cook
+70191	Alan Clement
+70192	Allan Pinsker
+70193	Anthony Marino
+70194	Audra Lindley
+70195	Bernard Canepari
+70196	Bill Clement
+70197	Bill Dalzell III
+70198	Brad Moniz
+70199	Brian Smrz
+70200	Brian Delate
+70201	Brian Hutchison
+70202	Butch Luick
+70203	Callum Keith-King
+70204	Daniel R. Pagath
+70205	David Flick
+70206	Dean E. Wells
+70207	Diane Robin
+70208	Dixie Neyland Tymitz
+70209	Dorian Harewood
+70210	Douglas Rees
+70211	Ed Evanko
+70212	Faith Minton
+70213	Fred M. Waugh
+70214	Fred Mancuso
+70215	Gilbert B. Combs
+70216	Glenda Morgan Brown
+70217	Glenn Alan Gardner
+70218	Harold Surratt
+70219	Jack Erdie
+70220	Jack Skelly
+70221	Jay Caufield
+70222	Jean Pierre Nutini
+70223	Jean-Claude Van Damme
+70224	Jeff Habberstad
+70225	Jeff Hochendoner
+70226	Jeff Howell
+70227	Jeff Jimerson
+70228	Jennifer D. Bowser
+70229	John Hall
+70230	John Hateley
+70231	John Sterling
+70232	Jophery C. Brown
+70233	Karen Baldwin
+70234	Kate McNeil
+70235	Ken Milchick
+70236	Larry John Meyers
+70237	Luc Robitaille
+70238	Manny Perry
+70239	Mark Hager
+70240	Mark Kachowski
+70241	Michael Gaston
+70242	Michael R. Aubele
+70243	Mike Lange
+70244	Milton E. Thompson Jr.
+70245	Pat Brisson
+70246	Paul Mochnik
+70247	Paul Steigerwald
+70248	Phil Spano
+70249	Powers Boothe
+70250	Ray Laine
+70251	Raymond J. Barry
+70252	Rema D. Webb
+70253	Rick LeFevour
+70254	Rohn Thomas
+70255	Rosine 'Ace' Hatem
+70256	Ross Malinger
+70257	Steve Aronson
+70258	Thomas Saccio
+70259	Tommy Lafitte
+70260	Vinnie Sciullo
+70261	Whittni Wright
+70262	William Cameron
+70263	Alan Cumming
+70264	Billy Mitchell
+70265	Constantine Gregory
+70266	Desmond Llewelyn
+70267	Famke Janssen
+70268	Gottfried John
+70269	Izabella Scorupco
+70270	Joe Don Baker
+70271	Judi Dench
+70272	Michael Kitchen
+70273	Minnie Driver
+70274	Peter Majer
+70275	Pierce Brosnan
+70276	Ravil Isyanov
+70277	Robbie Coltrane
+70278	Samantha Bond
+70279	Sean Bean
+70280	Serena Gordon
+70281	Tchéky Karyo
+70282	Trevor Byfield
+70283	Mark Thompson
+70284	Aaron Sorkin
+70285	Andrew Steel
+70286	Anna Deavere Smith
+70287	Anne Haney
+70288	Annette Bening
+70289	Arthur Senzy
+70290	Beans Morocco
+70291	Beau Billingslea
+70292	Bernie McInerney
+70293	Clement von Franckenstein
+70294	David Paymer
+70295	Efrat Lavie
+70296	Frank Cavestani
+70297	Gail Strickland
+70298	George Murdock
+70299	Googy Gress
+70300	John Mahon
+70301	John Mahoney
+70302	Jordan Lund
+70303	Joseph Latimore
+70304	Joshua Malina
+70305	Karen Maruyama
+70306	Kathryn Ish
+70307	Leslie Bega
+70308	Martin Sheen
+70309	Mathew Saks
+70310	Maud Winchester
+70311	Michael Douglas
+70312	Michael J. Fox
+70313	Richard Dreyfuss
+70314	Nina Siemaszko
+70315	Richard Stahl
+70316	Rick Garcia
+70317	Ron Canada
+70318	Samantha Mathis
+70319	Shawna Waldron
+70320	Steve Gonzales
+70321	Taylor Nichols
+70322	Thom Barry
+70323	Tom Dahlgren
+70324	Wendie Malick
+70325	Alan Walls
+70326	Alton Ruff
+70327	Amy Yasbeck
+70328	Amy Yesbeck
+70329	Anne McVey
+70330	Audrey Baranishyn
+70331	Avery Schreiber
+70332	Barbaree Earl
+70333	Ben Livingston
+70334	Blane Savage
+70335	Carol Arthur
+70336	Casey King
+70337	Cherie Franklin
+70338	Chuck McCann
+70339	Cindy Marshall-Day
+70340	Clive Revill
+70341	Darla Haun
+70342	David DeLuise
+70343	David Savoy
+70344	Delores Nemiro
+70345	Dennon Rawles
+70346	Derek Mark Lochran
+70347	Elaine Ballace
+70348	Ezio Greggio
+70349	Gregg Binkley
+70350	Grinnell Morris
+70351	Harvey Korman
+70352	Henry Kaiser
+70353	Ira Miller
+70354	Jeffrey Broadhurst
+70355	Jennifer Crystal
+70356	Jim Peace
+70357	Jody Peterson
+70358	John Frayer
+70359	Johnny Cocktails
+70360	Jude Van Wormer
+70361	Karen Roe
+70362	Kathleen Kane
+70363	Kevin Scott Crawford
+70364	Leslie Nielsen
+70365	Leslie S. Sachs
+70366	Lisa Cordray
+70367	Loraine Shields
+70368	Lysette Anthony
+70369	Manette LaChance
+70370	Mark Blankfield
+70371	Matthew Porretta
+70372	Maura Nielsen
+70373	Megan Cavanagh
+70374	Megan Cavanaugh
+70375	Mel Brooks
+70376	Michael Connors
+70377	Nick Rempel
+70378	Peter MacNicol
+70379	Phillip Connery
+70380	Ric Coy
+70381	Richard Alan Stewart
+70382	Robin Shepard
+70383	Rudy De Luca
+70384	Sandra Rovetta
+70385	Sandy Johnson
+70386	Sharon Savoy
+70387	Shirley Kirkes
+70388	Sonje Fortag
+70389	Stan Mazin
+70390	Stephen Wolfe Smith
+70391	Steven Weber
+70392	Ted Sprague
+70393	Thea Nielsen
+70394	Tommy Koenig
+70395	Tony Griffin
+70396	Tricia McFarlin-Mattson
+70397	Vince Grant
+70398	Zale Kessler
+70399	William Roberts
+70400	Bill Bailey
+70401	Bob Hoskins
+70402	Brendan Fraser
+70403	Bridget Fonda
+70404	Christine Cavanaugh
+70405	Danny Mann
+70406	Donald Sinden
+70407	Garick Hagon
+70408	Jennifer Blanc
+70409	Jim Carter
+70410	Jim Cummings
+70411	Juliette Brewer
+70412	Kevin Bacon
+70413	Lola Bates-Campbell
+70414	Michael J. Shannon
+70415	Miriam Margolyes
+70416	Phil Collins
+70417	Robbie Rist
+70418	Sandra Dickinson
+70419	Kevin Dunn
+70420	Annabeth Gish
+70421	Anthony Hopkins
+70422	Ling Bai
+70423	Bill Bolender
+70424	Boris Sichkin
+70425	Brian Bedford
+70426	Bridgette Wilson
+70427	Charles Haugk
+70428	Chuck Preiffer
+70429	Clayton Townsend
+70430	Corey Carrier
+70431	Dan Hedaya
+70432	David Barry Gray
+70433	Donna Dixon
+70434	Drew Snyder
+70435	Ed Harris
+70436	Edward Herrmann
+70437	E.G. Marshall
+70438	Fima Noveck
+70439	Fyvush Finkel
+70440	George Plimpton
+70441	Harry Murphy
+70442	Howard Platt
+70443	Jack Wallace
+70444	James Karen
+70445	James Pickens Jr.
+70446	James Woods
+70447	Joan Allen
+70448	Joanna Going
+70449	John Bedford Lloyd
+70450	John C. McGinley
+70451	John Cunningham
+70452	John Diehl
+70453	John Stockwell
+70454	Jon Tenney
+70455	J.T. Walsh
+70456	Julie Araskog
+70457	Julie Condra
+70458	Larry Hagman
+70459	Lenny Vullo
+70460	Madeline Kahn
+70461	Marilyn Rockafellow
+70462	Marley Shelton
+70463	Mary Steenburgen
+70464	Michael Chiklis
+70465	Michael Herz & Llyod Kauf...
+70466	Oliver Stone
+70467	O'Neal Compton
+70468	Paul Sorvino
+70469	Power Booth
+70470	Ric Young
+70471	Richard Fancy
+70472	Robert Beltran
+70473	Robert Marshall
+70474	Ronald Von Klaussen
+70475	Saul Rubinek
+70476	Sean Stone
+70477	Tom Bower
+70478	Tony Goldwyn
+70479	Tony Lo Bianco
+70480	Tony Plana
+70481	Victor Rivers
+70482	Wilson Cruz
+70483	Carl Chase
+70484	Chris Johnston
+70485	Christopher Adamson
+70486	Christopher Kennedy Maste...
+70487	Christopher Masterson
+70488	Dickey Beer
+70489	Frank Langella
+70490	Geena Davis
+70491	George Murcell
+70492	Harris Yulin
+70493	Jimmie F. Skaggs
+70494	Ken Bones
+70495	Mary Peach
+70496	Matthew Modine
+70497	Maury Chaykin
+70498	Patrick Malahide
+70499	Paul Dillon
+70500	Peter Geeves
+70501	Rex Linn
+70502	Roger Booth
+70503	Rupert Vansittart
+70504	Stan Shaw
+70505	Tam White
+70506	Thomas Lockyer
+70507	Joe Bob Briggs
+70508	Alan King
+70509	Andy Jarrell
+70510	Anthony Russell
+70511	Audrey Meadows
+70512	Bill Allison
+70513	Bret McCormick
+70514	Brian Reddy
+70515	Cameron Milzer
+70516	Carl Ciarfalio
+70517	Catherine Scorsese
+70518	Clem Caserta
+70519	Craig Vincent
+70520	Daniel P. Conte
+70521	David Rose
+70522	David Varriale
+70523	Dean Casper
+70524	Dick Smothers
+70525	Eric Randall
+70526	Erika vonTagen
+70527	Frank Adonis
+70528	Frank Vincent
+70529	Frankie Avalon
+70530	Fred Smith
+70531	Jack Orend
+70532	Jayne Meadows
+70533	Jed Mills
+70534	Jerry Vale
+70535	Joe La Due
+70536	Joe Pesci
+70537	Joey de Pinto
+70538	John Manca
+70539	Joseph Bono
+70540	Joseph P. Reidy
+70541	Linda Perri
+70542	L.Q. Jones
+70543	Max Raven
+70544	Melissa Prophet
+70545	Mitch Kolpan
+70546	Oscar Goodman
+70547	Pasquale Cajano
+70548	Peter Conti
+70549	Philip Suriano
+70550	Richard Riehle
+70551	Richard Wagner
+70552	Ronald Maccone
+70553	Roy Conrad
+70554	Sasha Semenoff
+70555	Sharon Stone
+70556	Sly Smith
+70557	Sonny D'Angelo
+70558	Steve Allen
+70559	Steve Vignari
+70560	Stuart Nisbet
+70561	Toru Nagai
+70562	Tyde Kierney
+70563	Vinny Vella Sr.
+70564	Alan Rickman
+70565	Alexander John
+70566	Elizabeth Spriggs
+70567	Emile Francois
+70568	Emilie François
+70569	Emma Thompson
+70570	Gemma Jones
+70571	Greg Wise
+70572	Harriet Walter
+70573	Hugh Grant
+70574	Hugh Laurie
+70575	Imelda Staunton
+70576	Imogen Stubbs
+70577	James Fleet
+70578	Kate Winslet
+70579	Oliver Ford Davies
+70580	Richard Lumsden
+70581	Robert Hardy
+70582	Tom Wilkinson
+70583	Marc Lawrence I
+70584	Alicia Witt
+70585	Amanda De Cadenet
+70586	Antonio Banderas
+70587	Bruce Willis
+70588	David Proval
+70589	Ione Skye
+70590	Jennifer Beals
+70591	Kathy Griffin
+70592	Lawrence Bender
+70593	Lili Taylor
+70594	Madonna
+70595	Marisa Tomei
+70596	Paul Calderon
+70597	Paul Skemp
+70598	Quentin Tarantino
+70599	Salma Hayek
+70600	Sammi Davis
+70601	Tamlyn Tomita
+70602	Tim Roth
+70603	Valeria Golino
+70604	Adewale Akinnuoye-Agbaje
+70605,"Arsenio ""Sonny"" Trinidad"
+70606	Bob Gunton
+70607	Bruce Spence
+70608	Danny D. Daniels
+70609	Dev Kennedy
+70610	Ian McNeice
+70611	Jim Carrey
+70612	Maynard Eziashi
+70613	Michael Reid Mackay
+70614	Patti Tippo
+70615	Simon Callow
+70616	Sophie Okonedo
+70617	Tommy Davidson
+70618	Aida Turturro
+70619	Alvaleta Guess
+70620	Angel Caban
+70621	Bill Nunn
+70622	Chris Cooper
+70623	Christopher Anthony Young
+70624	David Tawil
+70625	Greg McKinney
+70626	Jack O'Connell
+70627	Jack A. O'Connell
+70628	Jennifer Lopez
+70629	Jeremy Roberts
+70630	Joe Grifasi
+70631	John Cenatiempo
+70632	John Norman Thomas
+70633	Jose Soto
+70634	Jose Zuniga
+70635	Michael Artura
+70636	Moss Porter
+70637	Nelson Vasquez
+70638	Oni Faida Lampley
+70639	Richard Grove
+70640	Robert Blake
+70641	Ron Ryan
+70642	Saul Stein
+70643	Scott Sowers
+70644	Sharon Schaffer
+70645	Skipp Sudduth
+70646	Steve Randazzo
+70647	Thomas G. Waites
+70648	Vincent Laresca
+70649	Vincent Pastore
+70650	Vincent Patrick
+70651	Woody Harrelson
+70652	Alex Rocco
+70653	Alfred Dennis
+70654	Barry Sonnenfeld
+70655	Bernard Hocke
+70656	Bette Midler
+70657	Bobby Slayton
+70658	Carlease Burke
+70659	Danny DeVito
+70660	David Groh
+70661	Delroy Lindo
+70662	Dennis Farina
+70663	Gene Hackman
+70664	Greg Goossen
+70665	Harvey Keitel
+70666	Jack Conley
+70667	Jacob Vargas
+70668	James Gandolfini
+70669	Jeffrey J. Stephan
+70670	John Cothran Jr.
+70671	John Travolta
+70672	Jon Gries
+70673	Linda Hart
+70674	Miguel Sandoval
+70675	Patrick Breen
+70676	Penny Marshall
+70677	Ralph Manza
+70678	Rebeca Arthur
+70679	Rene Russo
+70680	Renee Props
+70681	Ron Karabatsos
+70682	Vito Scotti
+70683	Zach Phifer
+70684	Anthony Moore
+70685	Arlon G. Greene
+70686	Bert Kinyon
+70687	Bill Bonham
+70688	Bob Greene
+70689	Brian Russell
+70690	Charles Branklyn
+70691	Christopher Beale
+70692	Corie Henninger
+70693	Damon Lawner
+70694	Danny Kovacs
+70695	David Ferguson
+70696	David Michael Silverman
+70697	Dennis Richmond
+70698	Dermot Mulroney
+70699	Diane Amos
+70700	Donald West
+70701	Doug Morrison
+70702	Edith Bryson
+70703	Eleva Singleton
+70704	Floyd Gale Holland
+70705	Gena Bingham
+70706	Hansford Prince
+70707	Harry Connick Jr.
+70708	Holly Hunter
+70709	James Cunningham
+70710	Jay Jacobus
+70711	J.E. Freeman
+70712	Jeni Chua
+70713	John Charles Morris
+70714	John Rothman
+70715	Johnetta Shearer
+70716	Katherine Fitzhugh
+70717	Kathleen Stefano
+70718	Keith Phillips
+70719	Kelly De Martino
+70720	Kelvin Han Yee
+70721	Kenny Kwong
+70722	Lee Kopp
+70723	Nick Scoggin
+70724	Rebecca Jane Klingler
+70725	Richard Conti
+70726	Rob Nilsson
+70727	Robert Benscoter
+70728	Ron Kaell
+70729	Russ Christoff
+70730	Scott W. de Venney
+70731	Shannon O'Hurley
+70732	Sigourney Weaver
+70733	S.J. Spinali
+70734	Stephanie Ann Smith
+70735	Stuart W. Yee
+70736	Tahmus Rounds
+70737	Terry Brown
+70738	Thomas J. Fieweger
+70739	Tony Haney
+70740	Victor Talmadge
+70741	Vincenetta Gunn
+70742	Will Patton
+70743	William McNamara
+70744	William Oates
+70745	Rain
+70746	Adriana Altaras
+70747	Anna Sawai
+70748	Ben Miles
+70749	David Leitch
+70750	Eleonore Weisgerber
+70751	Guido Foehrweisser
+70752	Hans Hohlbein
+70753	Ill-Young Kim
+70754	Jens Neuhaus
+70755	Johannes Ahn
+70756	Jonathan Chan-Pensley
+70757	Joon Lee
+70758	Kai Fung Rieck
+70759	Kylie Goldstein
+70760	Kylie Liya Goldstein
+70761	Linh-Dan Pham
+70762	Matthias Schendel
+70763	Mina Ghousi
+70764	Naomie Harris
+70765	Nhi Ngoc Nguyen-Hermann
+70766	Patrick Pinheiro
+70767	Randall Duk Kim
+70768	Richard van Weyden
+70769	Rick Yune
+70770	Sh?Kosugi
+70771	Steffen Groth
+70772	Stephen Marcus
+70773	Sung Kang
+70774	Thorston Manderlay
+70775	Tim Williams
+70776	Vladimir Tarasjanz
+70777	Wolfgang Stegemann
+70778	Yoon Sungwoong
+70779	Yu Fang
+70780	Yuki Iwamoto
+70781	Alex Allen Morris
+70782	Barry Berfield
+70783	Bill Grant-Minchen
+70784	Bonnie Gallup
+70785	Bradford Tatum
+70786	Brady Coleman
+70787	Brandon Smith (I)
+70788	Chad Cox
+70789	Dannete McMann
+70790	Dee Macaluso
+70791	Esteban Powell
+70792	James Houston
+70793	Jeff Goldblum
+70794	Joe Marchman
+70795	Lance Henriksen
+70796	Meason Wiley
+70797	Missy Crider
+70798	Paula Engel
+70799	Philip Maurice Hayes
+70800	Ray Wise
+70801	Reed Frerichs
+70802	Sean Patrick Flanery
+70803	Susan Tyrrell
+70804	Tom Tarantini
+70805	Woody Watson
+70806	David Brisbin
+70807	Richard Lewis
+70808	Albert Henderson
+70809	Anne Lange
+70810	Bill Thompson
+70811	Bob Rafelson
+70812	Carey Lowell
+70813	Danny Huston
+70814	David Kriegel
+70815	Ed Lauter
+70816	Elisabeth Shue
+70817	French Stewart
+70818	Gordon Michaels
+70819	Graham Beckel
+70820	Julian Lennon
+70821	Julian Sands
+70822	Kim Adams
+70823	Lou Rawls
+70824	Lucinda Jenney
+70825	Marc Coppola
+70826	Mariska Hargitay
+70827	Michael A. Goorjian
+70828	Nicolas Cage
+70829	Paul Quinn
+70830	Sergio Premoli
+70831	Shawnee Smith
+70832	Stuart Regen
+70833	Susan Barnes
+70834	Thomas Kopache
+70835	Tracy Thorne
+70836	Vincent Ward
+70837	Waldemar Kalinowski
+70838	Andr?Oumansky
+70839	Anna Patrick
+70840	Gabriele Ferzetti
+70841	Indra Ove
+70842	Irène Jacob
+70843	John Savident
+70844	Kenneth Branagh
+70845	Laurence Fishburne
+70846	Michael Maloney
+70847	Michael Sheen
+70848	Nathaniel Parker
+70849	Nicholas Farrell
+70850	Oliver Parker
+70851	Philip Locke
+70852	Pierre Vaneck
+70853	Alice Tew
+70854	Ashleigh Aston Moore
+70855	Beverly Shelton
+70856	Bradley Coryell
+70857	Brandon Kleyla
+70858	Carl Espy
+70859	Christina Ricci
+70860	Cloris Leachman
+70861	Demi Moore
+70862	Devon Sawa
+70863	Gaby Hoffmann
+70864	Geoff McKnight
+70865	James Paul Cleckler
+70866	Jamison B. Dowd
+70867	Janeane Garofalo
+70868	Joey Stinson
+70869	Justin Humphrey
+70870	Kellen Crosby
+70871	Lolita Davidovich
+70872	Melanie Griffith
+70873	Ric Reitz
+70874	Rita Wilson
+70875	Rosie O'Donnell
+70876	Thora Birch
+70877	Travis Robertson
+70878	T.S. Morgan
+70879	Tucker Stone
+70880	Walter Sparrow
+70881	Willa Glen
+70882	Amanda Root
+70883	Ciarán Hinds
+70884	Corin Redgrave
+70885	Darlene Johnson
+70886	David Collings
+70887	Felicity Dean
+70888	Fiona Shaw
+70889	Jane Wood
+70890	John Woodvine
+70891	Judy Cornwell
+70892	Ken Shorter
+70893	Lonnie James
+70894	Niall Refoy
+70895	Phoebe Nicholls
+70896	Roger Hammond
+70897	Samuel West
+70898	Simon Russell Beale
+70899	Sophie Thompson
+70900	Susan Fleetwood
+70901	Briac Barthelemy
+70902	Cris Huerta
+70903	Daniel Emilfork
+70904	Dominique Pinon
+70905	Francois Hadji-Lazaro
+70906	Genevieve Brunet
+70907	Ham-Chau Luong
+70908	Hong-Mai Thomas
+70909	Jean-Claude Dreyfus
+70910	Jean-Louis Trintignant
+70911	Joseph Lucien
+70912	Judith Vittet
+70913	Lorella Cravotta
+70914	Mapi Galán
+70915	Marc Caro
+70916	Mireille Mosse
+70917	Nane Germon
+70918	Ron Perlman
+70919	Rufus
+70920	Serge Merlin
+70921	Ticky Holgado
+70922	Fu Biao
+70923	Li Gong
+70924	Jiang Baoying
+70925	Baotian Li
+70926	Li Xuejian
+70927	Liu Jiang
+70928	Shu Chen
+70929	Sun Chun
+70930	Wang Xiaoxiao
+70931	Xuejian Li
+70932	Yang Qianquan
+70933	Wade Dominguez
+70934	Al Israel
+70935	Beatrice Winde
+70936	Bernie Pock
+70937	Bruklin Harris
+70938	Courtney B. Vance
+70939	Ebony Jerido
+70940	George Dzundza
+70941	Irene Olga Lopez
+70942	Ivan Sergei
+70943	John Neville
+70944	Karina Arroyave
+70945	Lorraine Toussaint
+70946	Michelle Pfeiffer
+70947	Paula Garcés
+70948	Renoly Santiago
+70949	Richard Grant
+70950	Robin Bartlett
+70951	Roman Cisneros
+70952	Sarah Marshall
+70953	Skye Bassett
+70954	Bhiravi Vaidhy
+70955	Dilip Satgare
+70956	Haresh Mehta
+70957	Harish Panchal
+70958	Kamlesh Shah
+70959	Kishore Sachadev
+70960	Nilesh Joshi
+70961	Purvi Vyas
+70962	Rajul Diwan
+70963	Ram Milan
+70964	Vikram Shah
+70965	Freddy Andreiuci
+70966	Balinder Johal
+70967	Ron Sauv?1
+70968	Craig Sheffer
+70969	Elizabeth McGovern
+70970	Ken Pogue
+70971	Molly Parker
+70972	Tom Hulce
+70973	John Doyle
+70974	Charles Bartlett
+70975	David Webb
+70976	Doris Grau
+70977	Helen O'Connor
+70978	Hugo Weaving
+70979	Jacqueline Brennan
+70980	James Cromwell
+70981	Jane Alden
+70982	John Erwin
+70983	Julie Forsyth
+70984	Justin Monjo
+70985	Kerry Walker
+70986	Kimberly Bailey
+70987	Maeve Germaine
+70988	Magda Szubanski
+70989	Marshall Napier
+70990	Matthew Long
+70991	Michael Edward-Stevens
+70992	Michelle Davison
+70993	Miriam Flynn
+70994	Neil Ross
+70995	Paige Pollack
+70996	Patrika Darbo
+70997	Paul Goddard
+70998	Rosanna Huffman
+70999	Roscoe Lee Browne
+71000	Russi Taylor
+71001	Russie Taylor
+71002	Tina Lifford
+71003	Tony Hughes
+71004	Alex Kingston
+71005	Christopher Birch
+71006	David Ryall
+71007	Janet McTeer
+71008	Jeremy Northam
+71009	Jonathan Pryce
+71010	Neville Phillips
+71011	Penelope Wilton
+71012	Peter Blythe
+71013	Richard Clifford
+71014	Rufus Sewell
+71015	Steven Waddington
+71016	Adam Nelson
+71017	Adele Robbins
+71018	Alec Gifford
+71019	Amy Long
+71020	Barton Heyman
+71021	Celia Weston
+71022	Clancy Brown
+71023	Cortez Nance Jr.
+71024	Jack Black
+71025	Kevin Cooney
+71026	Larry Pine
+71027	Lenore Banks
+71028	Lois Smith
+71029	Margo Martindale
+71030	Michael Cullen
+71031	Mike Longman
+71032	Nesbitt Blaisdell
+71033	Pamela Garmon
+71034	Peter Sarsgaard
+71035	Ray Aranha
+71036	Robert Prosky
+71037	Roberta Maxwell
+71038	Sally Ann Roberts
+71039	Scott Wilson
+71040	Sean Penn
+71041	Steve Boles
+71042	Steve Carlisle
+71043	Susan Sarandon
+71044	Abby Lewis
+71045	Ali Hoffman
+71046	Ave Hoffman
+71047	Donald Trump
+71048	John McDonough
+71049	Matt Malloy
+71050	Pat Flynn
+71051	Peter Boyden
+71052	Peter Reznick
+71053	Peter Reznik
+71054	Philip Levy
+71055	Victor Steinbach
+71056	Ashley Olsen
+71057	Desmond Robertson
+71058	Ellen-Ray Hennessey
+71059	Ernie Grunwald
+71060	Gerry Parkes
+71061	Jane Sibbett
+71062	Kirstie Alley
+71063	Lawrence Z. Dane
+71064	Mary Kate
+71065	Mary-Kate Olsen
+71066	Michelle Grisom
+71067	Philip Bosco
+71068	Steve Guttenberg
+71069	Dorka Gryllus
+71070	Lajos Kovács
+71071	Richard Harris
+71072	Charles Dutton
+71073	Charles S. Dutton
+71074	Dambisa Kente
+71075	Dolly Rathebe
+71076	Eric Miyeni
+71077	Greg Latter
+71078	Ian Roberts
+71079	Ian Robers
+71080	James Earl Jones
+71081	Jsepo Gugusha
+71082	Leleti Khumalo
+71083	Leleti Kumalo
+71084	Robert Whitehead
+71085	Vusi Kunene
+71086	John Wood
+71087	Adrian Dunbar
+71088	Andy Rashleigh
+71089	Bill Paterson
+71090	Bruce Purchase
+71091	Christopher Bowen
+71092	Dennis Lili
+71093	Dominic West
+71094	Donald Sumpter
+71095	Edward Jewesbury
+71096	Edward Hardwicke
+71097	Ian McKellen
+71098	Jim Broadbent
+71099	Kate Steavenson-Payne
+71100	Kristin Scott Thomas
+71101	Maggie Smith
+71102	Marc Williamson
+71103	Matthew Groom
+71104	Michael Elphick
+71105	Nigel Hawthorne
+71106	Robert Downey Jr.
+71107	Ryan Gilmore
+71108	Tim McInnerny
+71109	Tres Hanley
+71110	Robert Smith
+71111	Bernie Telsey
+71112	Bokeem Woodbine
+71113	Carlton Wilborn
+71114	Charles E. Lesene
+71115	Cheryl Freeman
+71116	Chris Tucker
+71117	Clifton Collins Jr.
+71118	Clifton Powell
+71119	Cuc Dinh
+71120	Daniel Kruse
+71121	Elizabeth Rodriguez
+71122	Frank Albanese
+71123	Freddy Rodriguez
+71124	Heather B.
+71125	Isaiah Washington
+71126	Jaimz Woolvett
+71127	Jean Claude Lamarre
+71128	Jenifer Lewis
+71129	Joelle Hernandez
+71130	Jordan Hernandez
+71131	Keith David
+71132	Larenz Tate
+71133	Larry McCoy
+71134	Michael Imperioli
+71135	Monti Sharp
+71136	N'Bushe Wright
+71137	Quynh Phann
+71138	Rik Colitti
+71139	Robert LuPone
+71140	Rodney Winfield
+71141	Rose Jackson
+71142	Ryan Williams
+71143	Seymour Cassel
+71144	Kirk "Sticky Fingaz" Jone...
+71145	Terrence Howard
+71146	Tim Zay
+71147	Tony Sirico
+71148	Yen Chin Grow
+71149	David Thewlis
+71150	Meg Ryan
+71151	Polly Walker
+71152	Sam Neill
+71153	Cary-Hiroyuki Tagawa
+71154	Chris Casamassa
+71155	Christopher Lambert
+71156	Gregory Paul Martin
+71157	John Fujioka
+71158	Kenneth Edwards
+71159	Linden Ashby
+71160	Lloyd Kino
+71161	Peter Jason
+71162	Robin Shou
+71163	Sandy Helberg
+71164	Steven Ho
+71165	Talisa Soto
+71166	Trevor Goddard
+71167	Jonathan Sadowski
+71168	Kevin Smith
+71169	Chris Ellis
+71170	Mary Elizabeth Winstead
+71171	Allen Maldonado
+71172	Andrew Friedman
+71173	Chris Palermo
+71174	Christina Chang
+71175	Cliff Curtis
+71176	Cyril Raffaelli
+71177	David Walrod
+71178	Dennis Depew
+71179	Diana Gettinger
+71180	Edoardo Costa
+71181	Edward James Gage
+71182	Ethan Flower
+71183	Gerald Downey
+71184	Howard Tyrone Ferguson
+71185	Jake McDorman
+71186	Jim Cantafio
+71187	Joe Gerety
+71188	John Lacy
+71189	John Reha
+71190	Justin Long
+71191	Kurt David Anderson
+71192	Maggie Q
+71193	Matt O'Leary
+71194	Melissa Knowles
+71195	Nadine Ellis
+71196	Nick Jaine
+71197	Regina McKee Redwing
+71198	Rick Cramer
+71199	Rosemary Knower
+71200	Tim De Zarn
+71201	Tim Russ
+71202	Timothy Olyphant
+71203	Tony Colitti
+71204	Vito Pietanza
+71205	Yancey Arias
+71206	Yorgo Constantine
+71207	Zeljko Ivanek
+71208	David Williams
+71209	Adam Baldwin
+71210	Alfre Woodard
+71211	Alicia Goranson
+71212	Anne Bancroft
+71213	Ari Meyers
+71214	Brian McElroy
+71215	Charles Parks
+71216	Claire Danes
+71217	Debra Stricklin
+71218	Derrick O'Connor
+71219	Ellen Burstyn
+71220	Esther Rolle
+71221	Holland Taylor
+71222	James Rebhorn
+71223	Jared Leto
+71224	Jean Simmons
+71225	Johnathon Schaech
+71226	Kaelynn Craddick
+71227	Kate Capshaw
+71228	Kate Nelligan
+71229	Loren Dean
+71230	Maria Celedonio
+71231	Maya Angelou
+71232	Melinda Dillon
+71233	Richard Jenkins
+71234	Rip Torn
+71235	Sara Craddick
+71236	Tim Guinee
+71237	Will Nipper
+71238	Winona Ryder
+71239	Atsushi Watanabe
+71240	Bokuzen Hidari
+71241	Daisuke Kat?6
+71242	Eijir?Tono
+71243	Fumiko Homma
+71244	Gen Shimizu
+71245	Haruo Nakajima
+71246	Ichiro Chiba
+71247	Isao Kimura
+71248	Isao Yamagata
+71249	Kamatari Fujiwara
+71250	Keiji Sakakida
+71251	Keiko Tsushima
+71252	Kichijiro Ueda
+71253	K.O.
+71254	Kuninori Kodo
+71255	Minoru Chiaki
+71256	Noriko Sengoku
+71257	Seiji Miyaguchi
+71258	Senkichi Omura
+71259	Sojin Jr.
+71260	Takashi Shimura
+71261	Toranosuke Ogawa
+71262	Toshiro Mifune
+71263	Yoshio Inaba
+71264	Yoshio Kosugi
+71265	Yoshio Tsuchiya
+71266	Billy Connolly
+71267	Christian Bale
+71268	David Ogden Stiers
+71269	Frank Welker
+71270	Gordon Tootoosis
+71271	Irene Bedard
+71272	James Apaumut Fall
+71273	Joe Baker
+71274	John Kassir
+71275	Judy Kuhn
+71276	Linda Hunt
+71277	Mel Gibson
+71278	Michelle St. John
+71279	Russell Means
+71280	Clare Coulter
+71281	David Fox
+71282	Don McKellar
+71283	Henry Czerny
+71284	Jonathan Potts
+71285	Pascale Bussieres
+71286	Rachael Crawford
+71287	Richard W. Farrell
+71288	Sarah Steben
+71289	Stuart Clow
+71290	Tom Melissis
+71291	Tracy Wright
+71292	Peter Greene
+71293	Benicio Del Toro
+71294	Bert Williams
+71295	Billy Bates
+71296	Carl Bressler
+71297	Castulo Guerra
+71298	Chazz Palminteri
+71299	Christine Estabrook
+71300	Clark Gregg
+71301	David Powladge
+71302	Frank Medrano
+71303	Gabriel Byrne
+71304	Gene Lythgow
+71305	Jack Shearer
+71306	Kevin Spacey
+71307	Louis Lombardi
+71308	Michelle Clunie
+71309	Morgan Hunter
+71310	Paul Bartel
+71311	Pete Postlethwaite
+71312	Phillip Simon
+71313	Stephen Baldwin
+71314	Suzy Amis
+71315	Vito D'Ambrosio
+71316	Claire Bloom
+71317	Al Cerullo
+71318	Craig Sechler
+71319	Dan Moran
+71320	Danielle Ferland
+71321	David Kramer
+71322	Dominic Marcus
+71323	Donald Symington
+71324	F Murray Abraham
+71325	Gary Alper
+71326	George De La Pena
+71327	Helena Bonham Carter
+71328	J. Smith-Cameron
+71329	Jack Warden
+71330	Jeffrey Kurland
+71331	Karen Longwell
+71332	Kathleen Doyle
+71333	Kenneth Edelson
+71334	Lisa Vidal
+71335	Michael Rapaport
+71336	Mira Sorvino
+71337	Olympia Dukakis
+71338	Pamela Blair
+71339	Paul Giamatti
+71340	Peter McRobbie
+71341	Peter Weller
+71342	Rosemary Murphy
+71343	Sondra James
+71344	Tony Darrow
+71345	Woody Allen
+71346	Yvette Hawkins
+71347	Carmelo Di Mazzarelli
+71348	Elida Janushi
+71349	Enrico Lo Verso
+71350	Idajet Sejdia
+71351	Michele Placido
+71352	Piro Milkani
+71353	Sefer Pema
+71354	Anthony Esquivel
+71355	Areil Welch
+71356	Ashley Welch
+71357	Billy L. Sullivan
+71358	Bug Hall
+71359	Chauncey Leopardi
+71360	Gil Glasgow
+71361	Hayley Kolb
+71362	Hayley Miller
+71363	Jay O Sanders
+71364	Jessie Robertson
+71365	Jimmy Higa
+71366	John Bourg
+71367	John Terry
+71368	Jordan Brower
+71369	Libby Villari
+71370	Louanne Stephens
+71371	Milt Oberman
+71372	Nik Hagler
+71373	Olivia d'Abo
+71374	Patrick Renna
+71375	Yareli Arizmendi
+71376	Cary Elwes
+71377	Dylan McLaughlin
+71378	Felicity Huffman
+71379	Garrett Hedlund
+71380	Hector Elizondo
+71381	Jane Fonda
+71382	Lindsay Lohan
+71383	Zachary Gordon
+71384	Billy Coyle
+71385	Christopher Olscamp
+71386	Jeoffrey Graves
+71387	Johnny Morina
+71388	Justin Borntraeger
+71389	Maggie Castle
+71390	Malcolm McDowell
+71391	Michael Ironside
+71392	Roc LaFortune
+71393	Austin Pendleton
+71394	Charles Durning
+71395	Cynthia Stevenson
+71396	David Strathairn
+71397	Dylan McDermott
+71398	Emily Ann Lloyd
+71399	Geraldine Chaplin
+71400	Randy Stone
+71401	Anna Bonaiuto
+71402	Linda Moretti
+71403	Maria Grazia Cucinotta
+71404	Mariano Rigillo
+71405	Massimo Troisi
+71406	Orazio Stracuzzi
+71407	Philippe Noiret
+71408	Renato Scarpa
+71409	Sergio Solli
+71410	Anne-Marie Cadieux
+71411	Suzanne Clément
+71412	Normand Daneau
+71413	Richard Fréchette
+71414	Marie Gignac
+71415	Patrick Goyette
+71416	Paul Hébert
+71417	Lynda Lepage-Beaulieu
+71418	Billy Merasty
+71419	François Papineau
+71420	Pascal Rollin
+71421	Ron Burrage
+71422	Jean-Louis Millette
+71423	Lothaire Bluteau
+71424	David Keith
+71425	Gia Galeano
+71426	Hal Scardino
+71427	Lindsay Crouse
+71428	Litefoot
+71429	Nestor Serrano
+71430	Rishi Bhat
+71431	Sakina Jaffrey
+71432	Steve Coogan
+71433	Vincent Kartheiser
+71434	Graham Greene
+71435	Geneviève Bujold
+71436	Nancy Beatty
+71437	Mark Daniels
+71438	Adam Fitzhugh
+71439	Alex Dudgeon
+71440	Alexandra Boyd
+71441	Anthony Natale
+71442	Ashley Hamrick
+71443	Aurora J. Miller
+71444	Benjamin J. Dixon
+71445	Beth Maitland
+71446	Brent Archie
+71447	Chris Math
+71448	Conan Doherty
+71449	Damon Whitaker
+71450	Daniel J. Vhay
+71451	David Clegg
+71452	Dennis Biasi
+71453	Dieffyd Gilman Frederick
+71454	Donnie Burns
+71455	Eric Michael Cole
+71456	Freeman O. Corbin
+71457	Glenne Headly
+71458	Jacob Adams
+71459	Janine Shouse
+71460	Jay Frank
+71461	Jay Thomas
+71462	Jean Louisa Kelly
+71463	Joanna Gleason
+71464	John Boyer
+71465	John Henry Redwood
+71466	Jordan Carlton
+71467	Joseph Anderson
+71468	Joshua Minnick
+71469	Kaili Carlton
+71470	Kasey Nelson
+71471	Kathryn Arnett
+71472	Keith Swift
+71473	Kelly M. Casey
+71474	Kevin Calaba
+71475	Larry Joe Campbell
+71476	Linda Williams Janke
+71477	Mary Kay O'Mealy
+71478	Michael Mendelson
+71479	Moira Feeney
+71480	Nicholas John Renner
+71481	Nicholas Sirianni
+71482	Pal Bernard
+71483	Patrick Fong
+71484	Rachel Wooley
+71485	Sean Bevington
+71486	Spencer Riviera
+71487	Stacey Siegel
+71488	Tara Eng
+71489	Ted Roisum
+71490	Tomiko Peirano
+71491	William H. Macy
+71492	Zoe McLellan
+71493	Helen Martin
+71494	Chris Spencer
+71495	Craig Wayans
+71496	Damon Wayans
+71497	Darrell M. Heath
+71498	Isaiah Barnes
+71499	Keenen Ivory Wayans
+71500	Keith Morris
+71501	Kim Wayans
+71502	Lahmard J. Tate
+71503	Marlon Wayans
+71504	Omar Epps
+71505	Shawn Wayans
+71506	Suli McCullough
+71507	Tracey Cherelle Jones
+71508	Tracey Jones
+71509	Vivian Smallwood
+71510	Vivica A. Fox
+71511	Chris Benson
+71512	Denis Leary
+71513	Dennis O'Connor
+71514	Don Gavin
+71515	Ferne Downey
+71516	Ian White
+71517	John Friesen
+71518	Jonathan Tucker
+71519	Jonny Fido
+71520	Katya Ladan
+71521	Kay Hawtry
+71522	Lenny Clarke
+71523	Michael Badalucco
+71524	Mike Starr
+71525	Philip Williams
+71526	Richard Fitzpatrick
+71527	Sandi Ross
+71528	Sandra Bullock
+71529	Stephen Dillane
+71530	Wayne Robson
+71531	Yaphet Kotto
+71532	Cecile Krevoy
+71533	Dara Tomanovich
+71534	Denise Y. Dowse
+71535	Denise Dowse
+71536	Henry Gibson
+71537	Jeremy Jordan
+71538	Joey Lauren Adams
+71539	Kevin West
+71540	Kyle Gass
+71541	Kylie Minogue
+71542	Mark Burton
+71543	Patricia Hearst
+71544	Paul Eiding
+71545	Pauly Shore
+71546	Rene L. Moreno
+71547	Rodger Bumpass
+71548	Rose McGowan
+71549	Taylor Negron
+71550	Teresa Hill
+71551	Tucker Smallwood
+71552	William Atherton
+71553	Amanda Hillwood
+71554	Arthur Mendozo
+71555	Austin O'Brien
+71556	Cami Cooper
+71557	Camille Cooper
+71558	Crystal Celeste Grant
+71559	Dale E. House
+71560	David Byrd
+71561	David Gene Gibbs
+71562	Ellis Williams
+71563	Ely Pouget
+71564	John Benjamin Martin
+71565	Kevin Conway
+71566	Matt Frewer
+71567	Molly Shannon
+71568	Patricia Belcher
+71569	Patrick Bergin
+71570	Patrick LaBrecque
+71571	Ralph Ahn
+71572	Sean Parhm
+71573	Stephanie Menuez
+71574	Joanna Merlin
+71575	Alec Baldwin
+71576	Andy Romano
+71577	Donna Mitchell
+71578	Gerlando Barone
+71579	Glenn Daniels
+71580	Jerry Barone
+71581	Joey Perillo
+71582	Mary Elizabeth Mastranton...
+71583	Mary Lou Rosato
+71584	Patrick Borriello
+71585	Ron McLarty
+71586	Rosemary De Angelis
+71587	Alain Chabat
+71588	Catherine Hiegel
+71589	Catherine Lachens
+71590	Catherine Samie
+71591	Josiane Balasko
+71592	Katrine Boorman
+71593	Maureen Diot
+71594	Michèle Bernier
+71595	Miguel Bos?6
+71596	Victoria Abril
+71597	Bozena Dykiel
+71598	Cezary Pazura
+71599	Marek Kondrat
+71600	John Hawkes
+71601	Michael Parks
+71602	Aimee Graham
+71603	Brenda Hillhouse
+71604	Chad Dowdell
+71605	Cheech Marin
+71606	Ernest Liu
+71607	Fred Williamson
+71608	George Clooney
+71609	Heidi McNeal
+71610	John Saxon
+71611	Juliette Lewis
+71612	Kelly Preston
+71613	Maria Diaz
+71614	Mike Moroff
+71615	Tito Larriva
+71616	Tom Savini
+71617	Veena Bidasha
+71618	Anthony Giaimo
+71619	Antoni Corone
+71620	Bubba Baker
+71621	Carmen Lopez
+71622	Cindy Crawford
+71623	Don Yesso
+71624	Gustav Vintas
+71625	Jenette Goldstein
+71626	Johann Carlo
+71627	Marc Macaulay
+71628	Olek Krupa
+71629	Ruben Rabasa
+71630	Scott Michael Campbell
+71631	Sonny Carl Davis
+71632	Steven Berkoff
+71633	William Baldwin
+71634	Alessandro Ruggiero
+71635	Dallas McKinney
+71636	Dan Metcalfe
+71637	Elliot Cho
+71638	Erik Walker
+71639	Francesco Liotti
+71640	Jeremy Bergman
+71641	Josh Hutcherson
+71642	Kate Walsh
+71643	Laura Kightlinger
+71644	Mike Ditka
+71645	Musetta Vander
+71646	Rachael Harris
+71647	Robert Duvall
+71648	Steven Anthony
+71649	Will Ferrell
+71650	Geoffrey Rush
+71651	Hans Matheson
+71652	Kathleen Byron
+71653	Liam Neeson
+71654	Mimi Newman
+71655	Peter Vaughan
+71656	Reine Brynolfsson
+71657	Toby Jones
+71658	Uma Thurman
+71659	Ally Walker
+71660	Anne Pitoniak
+71661	Brian Tarantina
+71662	Christian Slater
+71663	Debra Monk
+71664	Edith Blume
+71665	Gina Torres
+71666	Josh Brolin
+71667	Kenneth Cranham
+71668	Mary Alice
+71669	Mary Stuart Masterson
+71670	Michael Mantell
+71671	Nick Tate
+71672	Pamela Segall
+71673	R.M. Haley
+71674	S.A. Griffin
+71675	Bill Dow
+71676	Blake Bashoff
+71677	Carol Kane
+71678	Christine Willes
+71679	C.J. Grayson
+71680	Cody McMains
+71681	Curtis Armstrong
+71682	Don Knotts
+71683	Faith Prince
+71684	Grant Hoover
+71685	Harry Waters Jr.
+71686	Ingrid Torrance
+71687	Jeffrey Tambor
+71688	Julianne Phillips
+71689	Justin Jon Ross
+71690	Matthew Slowik
+71691	Michael Zwiener
+71692	Rick Moranis
+71693	Stuart Pankin
+71694	Susan Bain
+71695	Tiffany Foster
+71696	Tom Arnold
+71697	Tony Pierce
+71698	Andrew Lauer
+71699	Bruce Boa
+71700	Charles Powell
+71701	Henry Ramer
+71702	Jason Cavalier
+71703	Jennifer Rubin
+71704	Leni Parker
+71705	Liliana Komorowska
+71706	Michael Caloz
+71707	Ron White
+71708	Roy Dupuis
+71709	Sylvain Masse
+71710	Tom Berry
+71711	Andy Warhol
+71712	Billy Name
+71713	Jackson Browne
+71714	John Cale
+71715	Jonas Mekas
+71716	Lou Reed
+71717	Nico
+71718	Paul Morrissey
+71719	Sterling Morrison
+71720	Viva
+71721	David Morse
+71722	Angie Dickinson
+71723	Anjelica Huston
+71724	Bobby Cooper
+71725	Buddy Anderson
+71726	Christel Ehde
+71727	David Baerwald
+71728	Daysi Moreno
+71729,"Dennis ""Chicago"" Fanning"
+71730	Dr. Edward L. Katz
+71731	Dr. William Dignam
+71732	Eileen Ryan
+71733	Elizabeth Gilliam
+71734	Erin Dignam
+71735	Gene Kirkwood
+71736	Grant Show
+71737	Hadda Brooks
+71738	Hanna Newmaster
+71739	Jack Nicholson
+71740	Jason Kristofer
+71741	Jay Koiwai
+71742	Jeff Morris
+71743	Jennifer Leigh Warren
+71744	Jeremiah Birkett
+71745	Joe Viterelli
+71746	John Savage
+71747	Joi Travers
+71748	Joseph Bottoms
+71749	Kamala Petty
+71750	Karen Medak
+71751	Kari Wuhrer
+71752	Kellita Smith
+71753	Leo Penn
+71754	Lindsay Wagner
+71755	Lisa Crawford
+71756	Matthew Ryan
+71757	Michael Abelar
+71758	Michael Ryan
+71759	Millicent Sheridan
+71760	Nicky Blair
+71761	Penny Allen
+71762	Piper Laurie
+71763	Priscilla Barnes
+71764	Randy Meadoff
+71765	Richard Bradford
+71766	Richard C. Sarafian
+71767	Robbie Robertson
+71768	Robin Wright Penn
+71769	Ruby McKoy
+71770	Ryo Ishabashi
+71771	Alejandro Garcia
+71772	Anne Bobby
+71773	Anne Heche
+71774	Brett Barsky
+71775	Charlie Landry
+71776	Chuck Cooper
+71777	Chuck Zito
+71778	Daniel Martinez XI
+71779	Denise Burse
+71780	Fiona Gallagher
+71781	Frances Foster
+71782	Gary R. Wordham
+71783	Gayle Scott
+71784	Jack Gilpin
+71785	James McCauley
+71786	Joe Perrino
+71787	Jose Jara
+71788	Jose Senteno
+71789	Joseph Gordon-Levitt
+71790	Julie Halston
+71791	Kalani Queypo
+71792	Luisa Huertas
+71793	Marco Quezaza
+71794	Matt Craven
+71795	Matthew Cowles
+71796	Melissa Murray
+71797	Michael Constantine
+71798	Michael Rispoli
+71799	Peter Rini
+71800	Polly Adams
+71801	Randy Jurgensen
+71802	Raoul Morales
+71803	Robin Moseley
+71804	Steve Santosusso
+71805	Todd Susman
+71806	Tom Signorelli
+71807	Tony Lobianco
+71808	William Hill
+71809	Aida Mohammadkhani
+71810	Anna Bourkowska
+71811	Fereshtch Sadr Orfani
+71812	Fereshteh Sadre Orafaiy
+71813	Mohammad Bahktiari
+71814	Mohammad Shahani
+71815	Mohsen Kafili
+71816	Mohsen Kalifi
+71817	William Forsythe
+71818	Susan Merson
+71819	Andy Garcia
+71820	Archie Smith
+71821	Bill Cobbs
+71822	Bill Coess
+71823	Bill C.W. Long
+71824	Bill Erwin
+71825	Buddy Guy
+71826	Cheree Jaeb
+71827	Christopher Lloyd
+71828	Christopher Walken
+71829	Chuck Bacino
+71830	Danny Romo
+71831	David Stratton
+71832	Deborah Strang
+71833	Don Cheadle
+71834	Don Stark
+71835	Fairuza Balk
+71836	Gabrielle Anwar
+71837	Glenn Plummer
+71838	Greg Rzab
+71839	Harriet Medin
+71840	Jacob Berenger
+71841	James Caan
+71842	Jenny McCarthy
+71843	Joe Drago
+71844	Josh Charles
+71845	Larissa Michiele
+71846	Larry Curry Jr.
+71847	Larry Raben
+71848	Lynn Applebaum
+71849	Marshall Bell
+71850	Michael Nicolosi
+71851	Nate Ingram
+71852	Phil Boardman
+71853	Ray Allison
+71854	Ruthay
+71855	Sarah Trigger
+71856	Sarah Levy Arbess
+71857	Scott Holt
+71858	Selina Mathews
+71859	Steve Buscemi
+71860	Taylor Hale
+71861	Tommy 'Tiny' Lister
+71862	Treat Williams
+71863	Wiley Harker
+71864	William Denis
+71865	Willie Garson
+71866	Elsie de Brauw
+71867	Adriaan Van Den Hoof
+71868	Antoon Schotsaert
+71869	Aurelie Verstraeten
+71870	Barbara Maes
+71871	Carlo Van Dam
+71872	Carolien Spoor
+71873	Catherine ten Bruggencate
+71874	Cederic Missine
+71875	Charlène Pottevin
+71876	Christophe De Laere
+71877	Christophe Horemans
+71878	Daisy Van Laer
+71879	Daniel Dailly
+71880	Dirk Zeelenberg
+71881	Dora van der Groen
+71882	Dorien Van Laer
+71883	Eddy Praet
+71884	Ellen Dikker
+71885	Els Dottermans
+71886	Erik de Bruyn
+71887	Esther Vriesendorp
+71888	Filip Peeters
+71889	Flip Filz
+71890	Fran Waller Zeper
+71891	Gabriella Martinson
+71892	Gilles Robertino
+71893	Gilles Van Durme
+71894	Gosewijn Zwanikken
+71895	Hans Kesting
+71896	Hans Man in't Veld
+71897	Igor Corbeau
+71898	Ilse Dense
+71899	Jakob Beks
+71900	Jan Decleir
+71901	Jan Steen
+71902	Jascha Vervoort
+71903	Jenne Decleir
+71904	Jeroen Huysmans
+71905	Jesse Tomballe
+71906	Johan Heldenbergh
+71907	Kristel Olejniejoh
+71908	Leo Hogenboom
+71909	Lineke Rijxman
+71910	Manon Sodderland
+71911	Margo Dames
+71912	Marina De Graaf
+71913	Menno Tomballe
+71914	Michaël Pas
+71915	Michel van Dousselaere
+71916	Mil Seghers
+71917	Nicky Wolfs
+71918	Paul R. Kooij
+71919	Petra Laseur
+71920	Pieter Callens
+71921	Reinout Bussemaker
+71922	Sarah De Ceuleer
+71923	Stijn Rabaey
+71924	Tamara Maes
+71925	Thyrza Ravesteijn
+71926	Tine Vanhoucke
+71927	Truus Te Selle
+71928	Veerle van Overloop
+71929	Victor Löw
+71930	Willeke van Ammelrooy
+71931	Wimie Wilhelm
+71932	Taj Mahal
+71933	Al Freeman Jr.
+71934	Anna Maria Horsford
+71935	Anna Marie Horsford
+71936	Bernie Casey
+71937	Charles Earl Taylor
+71938	Damon Hines
+71939	Iona Morris
+71940	Isaac Hayes
+71941	Karen Malina White
+71942	Paula Kelly
+71943	Phil Lewis
+71944	Phylicia Rashad
+71945	Polly Bergen
+71946	Richard Roundtree
+71947	Salli Richardson
+71948	Willie Norwood Jr.
+71949	Andre Gregory
+71950	Barbara Flood
+71951	Brooke Smith
+71952	Diane Salinger
+71953	Henry Jaglom
+71954	Jon Robin Baitz
+71955	Joseph Feury
+71956	Kristoffer Tabori
+71957	Martha Plimpton
+71958	Melissa Leo
+71959	Michael Emil
+71960	Nick Gregory
+71961	Roddy McDowall
+71962	Ron Rifkin
+71963	Savannah Smith Boucher
+71964	Victoria Foyt
+71965	Viveca Lindfors
+71966	Anna Massey
+71967	Annette Badland
+71968	Chris Larkin
+71969	Claire Brown
+71970	Douglas Henshall
+71971	Graham Glover
+71972	Jeremy Kemp
+71973	John Jenkins
+71974	John Walter White
+71975	Mark Rylance
+71976	Patsy Kensit
+71977	Andrew Hartley
+71978	Anita Weider
+71979	Anja Clausen
+71980	Balthazar Getty
+71981	Becky Ann Baker
+71982	Camilla Overbye Roos
+71983	Caroline Goodall
+71984	Charlotte Anderson
+71985	Chris J. Condon
+71986	David Lascher
+71987	David Selby
+71988	Emily Chittell
+71989	Ethan Embry
+71990	James Medina
+71991	Jason Marsden
+71992	Jeff Bridges
+71993	Jeremy Sisto
+71994	Jill Larson
+71995	Jordan Clarke
+71996	Jordan Scott
+71997	Julio Oscar Mechoso
+71998	Keith Peyton Thomas
+71999	Lene Kristensen
+72000	Lizbeth MacKay
+72001	Mette Hocke
+72002	Nathaniel Ives
+72003	Nicole Ann Samuel
+72004	Nynne Christiansen
+72005	Ryan Phillippe
+72006	Scott Wolf
+72007	Bruce Beatty
+72008	Cynthia Martells
+72009	Eric Lloyd
+72010	Ernest Perry Jr.
+72011	Faye Dunaway
+72012	Frank Kopyc
+72013	Glenn Shadix
+72014	Graham Sack
+72015	Jason Alexander
+72016	Jennifer Bassey
+72017	Jim Ishida
+72018	Judith Scott
+72019	Lois De Banzie
+72020	Lynne Marie Stewart
+72021	Marceline Hugot
+72022	Michael McCarty
+72023	Natalie Core
+72024	Nathan Davis
+72025	Neriah Napaul
+72026	Paul Reubens
+72027	Peter Siragusa
+72028	Ray Chang
+72029	Rupert Everett
+72030	Steven Gilborn
+72031	Danielle Mason
+72032	Glenis Levestam
+72033	Jono Manks
+72034	Kevin McTurk
+72035	Matthew Chamberlain
+72036	Mickey Rose
+72037	Nathan Meister
+72038	Oliver Driver
+72039	Peter Feeney
+72040	Peter Feeney (II)
+72041	Tammy Davis
+72042	Tandi Wright
+72043	Yul Vázquez
+72044	Alison Stuart
+72045	Antonette Saftler
+72046	Antony Sandoval
+72047	Armando Ortega
+72048	Bill Smitrovich
+72049	Charles Carroll
+72050	Christopher Jacobs
+72051	C.J. Bau
+72052	Clark Johnson
+72053	Courtney Chase
+72054	Cynthena Sanders
+72055	Cynthia Noritake
+72056	Dana Mackey
+72057	Edith Diaz
+72058	G.D. Spradlin
+72059	Gloria Reuben
+72060	Holly Kuespert
+72061	Isabel Lorca
+72062	Jan Speck
+72063	Jerry Tondo
+72064	John Azevedo Jr.
+72065	Johnny Depp
+72066	Lance August
+72067	Lance Hunter Voorhees
+72068	Marsha Mason
+72069	Marta Yolanda González
+72070	Michael Chong
+72071	Miguel Nájera
+72072	Nicole Mancera
+72073	Pamela Dunlap
+72074	Peter Strauss
+72075	Rick Zieff
+72076	Robert Buckingham
+72077	Roma Maffia
+72078	Teddy Beeler
+72079	Tom Lawrence
+72080	Tomi-Lee Bradley
+72081	Andrew Stahl
+72082	Collin Wilcox Paxton
+72083	Danny Nelson
+72084	Eric Mabius
+72085	Jason Patric
+72086	John Doman
+72087	Larry Drake
+72088	Lee Norris
+72089	Muse Watson
+72090	Sam Waterston
+72091	Thandie Newton
+72092	David Ross
+72093	Bob Mason
+72094	Bronagh Gallagher
+72095	Ellie Crockett
+72096	Emma Griffiths Malin
+72097	Evelyn Doggart
+72098	Gary Cole
+72099	George Cole
+72100	Glenn Close
+72101	Henry Goodman
+72102	Isabella Marsh
+72103	John Malkovich
+72104	Julia Hagen
+72105	Julia Roberts
+72106	Kadamba Simmons
+72107	Kathy Staff
+72108	Linda Bassett
+72109	Michael Gambon
+72110	Mimi Potworowska
+72111	Moya Brady
+72112	Piu Fan Lee
+72113	Richard Leaf
+72114	Robbi Stevens
+72115	Samantha Hones
+72116	Sasha Hanau
+72117	Stephen Boxer
+72118	Tim Barlow
+72119	Wendy Nottingham
+72120	Allen Payne
+72121	Eddie Murphy
+72122	Jerry Hall
+72123	Joanna Cassidy
+72124	Joe Costanza
+72125	John LaMotta
+72126	John Witherspoon
+72127	Josef Powell
+72128	Kadeem Hardison
+72129	Michael Hyde
+72130	Mitch Pileggi
+72131	Nick Corri
+72132	Nick de Mauro
+72133	Oren Waters
+72134	Ray Combs
+72135	Simbi Khali
+72136	Troy Curvey Jr.
+72137	Vickilyn Reynolds
+72138	W. Earl Brown
+72139	Zakes Mokae
+72140	David Arquette
+72141	Lauren Holly
+72142	Matt Dillon
+72143	Max Perlich
+72144	Noah Emmerich
+72145	Pruitt Taylor Vince
+72146	Richard Bright
+72147	Sam Robards
+72148	Timothy Hutton
+72149	Jim Palmer
+72150	James MacDonald
+72151	Carmen Argenziano
+72152	Casey Biggs
+72153	Charlie Brewer
+72154	Chris Mulkey
+72155	Daniel von Bargen
+72156	Frank Whaley
+72157	Gary Epper
+72158	Howie Long
+72159	Jack Thompson
+72160	J.N. Roberts
+72161	Kurtwood Smith
+72162	Myke Schwartz
+72163	Shaun Toub
+72164	Vondie Curtis-Hall
+72165	Vyto Ruginis
+72166	Allie Byrne
+72167	Brian Pettifer
+72168	Celia Imrie
+72169	Gerard Horan
+72170	Hetta Charnley
+72171	Jennifer Saunders
+72172	Joan Collins
+72173	John Sessions
+72174	Julia Sawalha
+72175	Mark Hadfield
+72176	Nick Farrell
+72177	Patrick Doyle
+72178	Richard Briers
+72179	Robert Hines
+72180	Shaun Prendergast
+72181	Andrée Damant
+72182	Benoît Magimel
+72183	Christophe Rossignon
+72184	Edouard Montoute
+72185	Félicit?Wouassi
+72186	François Levantal
+72187	François Toumarkine
+72188	Hubert Kounde
+72189	Joseph Momo
+72190	Karim Belkhadra
+72191	Karin Viard
+72192	Marc Duret
+72193	Mathieu Kassovitz
+72194	Peter Kassovitz
+72195	Philippe Nahon
+72196	Said Taghmaoui
+72197	Vincent Cassel
+72198	Vincent Lindon
+72199	Bruce Davison
+72200	Cynthia Sikes
+72201	Jennifer Grant
+72202	Juliet Landau
+72203	Lee Grant
+72204	Mae Whitman
+72205	Marcia Strassman
+72206	Martha Gehman
+72207	Pamela Bellwood
+72208	Rob Morrow
+72209	Robert Romanus
+72210	Robyn Peterson
+72211	Cookie
+72212	Daryl Gates
+72213	Heidi Fleiss
+72214	Ivan Nagy
+72215	Madam Alex
+72216	Nick Broomfield
+72217	Victoria Sellers
+72218	John Finn
+72219	Angel David
+72220	Anthony Franciosa
+72221	Brian Murray
+72222	Danny Aiello
+72223	Edward I. Koch
+72224	Fran Brill
+72225	Harry Bugin
+72226	John Cusack
+72227	John Slattery
+72228	Jordan Baker
+72229	Joseph Kelly
+72230	Larry Romano
+72231	Lauren Vélez
+72232	Lindsay Duncan
+72233	Lucia Mendoza
+72234	Mark Lonow
+72235	Martin Andau
+72236	Martin Landau
+72237	Mary Murphy
+72238	Mel Winkler
+72239	Miguel Sierra
+72240	Murphy Guyer
+72241	Richard Gant
+72242	Richard Schiff
+72243	Rob La Belle
+72244	Roberta Peters
+72245	Stanley Anderson
+72246	Sylvia Kauders
+72247	Tamara Tunie
+72248	Andrew Wilson
+72249	Bob Musgrave
+72250	Brian Tenenbaum
+72251	Darryl Cox
+72252	Dipak Pallana
+72253	Haley Miller
+72254	Hector Garcia
+72255	Jenni Tooley
+72256	Jim Ponds
+72257	Kumar Pallana
+72258	Luke Wilson
+72259	Lumi Cavazos
+72260	Ned Dowd
+72261	Owen Wilson
+72262	Robert Musgrave
+72263	Shea Fowler
+72264	Stephen Dignan
+72265	Temple Nash
+72266	Peter White
+72267	Bill Pullman
+72268	Bob Harvey
+72269	Brad William Henke
+72270	Camille Saviola
+72271	Casey Kasem
+72272	Christine Cattall
+72273	Christopher Kriesa
+72274	Dean Stockwell
+72275	Ellen Cleghorne
+72276	Ellen DeGeneres
+72277	Frank Lugo
+72278	Frank Roman
+72279	Hector Elias
+72280	Hope Davis
+72281	Jean Kasem
+72282	Joan Plowright
+72283	John Livingston
+72284	Jonathan Hernandez
+72285	Louie Anderson
+72286	Maddie Corman
+72287	Polly Holliday
+72288	Robert Goulet
+72289	Shea Farrell
+72290	Wayne Alexander
+72291	Kim Catrall
+72292	Caroline Elliott
+72293	Cheryl Wilson
+72294	Colleen Rennison
+72295	Duncan Fraser
+72296	Garwin Sanford
+72297	Kim Cattrall
+72298	Kim Coates
+72299	Linda Fiorentino
+72300	Peter Coyote
+72301	Ray Liotta
+72302	Stellina Rusich
+72303	Suzy Joachim
+72304	William B. Davis
+72305	John Shaw
+72306	Andrew Johnston
+72307	Ellie Harvie
+72308	Adam Sandler
+72309	Allen Covert
+72310	Ben Stiller
+72311	Betty Linde
+72312	Bob Barker
+72313	Brent Chapman
+72314	Brett Armstrong
+72315	Carl Weathers
+72316	Charles L. Brame
+72317	Dave Cameron
+72318	David Kaye
+72319	Dennis Dugan
+72320	D.J. Jackson
+72321	Donald MacMillan
+72322	Douglas Newell
+72323	Edward Lieberman
+72324	Fat Jack
+72325	Frances Bay
+72326	Frank L. Frazier
+72327	Fred Perron
+72328	Helen Honeywell
+72329	Helena Yea
+72330	Ian Boothby
+72331	Jared Van Snellenberg
+72332	Jessica Gunn
+72333	Jim Crescenzo
+72334	Joe Flaherty
+72335	John Destrey
+72336	Julie Bowen
+72337	Ken Camroux
+72338	Kevin Nealon
+72339	Kimberly Restell
+72340	Lee Trevino
+72341	Lisanne Collett
+72342	Lou Kliman
+72343	Louis O'Donoghue
+72344	Mark Lye
+72345	Michelle Holdsworth
+72346	Nancy McClure
+72347	Paul Raskin
+72348	Peter Kelamis
+72349	Phillip Beer
+72350	Rich Elwood
+72351	Richard Kiel
+72352	Robert Smigel
+72353	Simon Webb
+72354	Stephen Dimopoulos
+72355	Stephen Tibbetts
+72356	Ted Deeken
+72357	Verne Lundquist
+72358	Will Sasso
+72359	William Samples
+72360	Zachary Webb
+72361	Annie Corley
+72362	Clint Eastwood
+72363	David Gilbert
+72364	George Orrison
+72365	Jim Haynie
+72366	Kyle Eastwood
+72367	Meryl Streep
+72368	Phyllis Lyons
+72369	Victor Slezak
+72370	Anja Hoffmann
+72371	Elisabeth Trissenaar
+72372	Erwin Grosche
+72373	Ingo Naujoks
+72374	Joachim Król
+72375	Lorose Keller
+72376	Maria Schrader
+72377	Michael von Au
+72378	Peggy Parnass
+72379	Pierre Sanoussi-Bliss
+72380	Dave Goelz
+72381	David Rudman
+72382	Frank Oz
+72383	Frederick Warder
+72384	Harry Jones
+72385	Jerry Nelson
+72386	Kevin Bishop
+72387	Kevin Clash
+72388	Steve Whitmire
+72389	Tim Curry
+72390	Michael Byrne
+72391	Brian Cox
+72392	James Robinson
+72393	Tommy Flanagan
+72394	Alan Tall
+72395	Alex Norton
+72396	Alun Armstrong
+72397	Angus Macfadyen
+72398	Barry McGovern
+72399	Bernard Horsfall
+72400	Brendan Gleeson
+72401	Catherine McCormack
+72402	David Gant
+72403	David McKay
+72404	David O'Hara
+72405	Donal Gibson
+72406	Gerard McSorley
+72407	Ian Bannen
+72408	James Cosmo
+72409	Jeanne Marine
+72410	Jimmy Keogh
+72411	Joe Savino
+72412	John Kavanagh
+72413	John Murtagh
+72414	Julie Austin
+72415	Liam Carney
+72416	Mal Whyte
+72417	Malcolm Tierney
+72418	Martin Dempsey
+72419	Martin Dunne
+72420	Martin Murphy
+72421	Niall O'Brien
+72422	Patrick McGoohan
+72423	Peter Hanly
+72424	Peter Mullan
+72425	Phil Kelly
+72426	Ralph Riach
+72427	Robert Paterson
+72428	Sandy Nelson
+72429	Sean Lawlor
+72430	Sean McGinley
+72431	Sophie Marceau
+72432	Peter Boyle
+72433	Albert Brooks
+72434	Bill Minkin
+72435	Bob Maroff
+72436	Brenda Dickson
+72437	Carey Poe
+72438	Copper Cunningham
+72439	Cybill Shepherd
+72440	Deborah Morgan
+72441	Diahnne Abbott
+72442	Frank Adu
+72443	Gino Ardito
+72444	Harry Cohn
+72445	Harry Northrup
+72446	Jason Holt
+72447	Jodie Foster
+72448	Joe Spinell
+72449	Leonard Harris
+72450	Martin Scorsese
+72451	Murray Moston
+72452	Norman Matlock
+72453	Peter Savage
+72454	Ralph S. Singleton
+72455	Richard Higgs
+72456	Robert Shields
+72457	Steven Prince
+72458	Vic Magnotta
+72459	Victor Argo
+72460	Anita Mui
+72461	Bill Tung
+72462	Carrie Cain-Sparks
+72463	Francoise Yip
+72464	Garvin Cross
+72465	Hua Yueh
+72466	Jackie Chan
+72467	Kris Lord
+72468	Marc Akerstream
+72469	Morgan Lam
+72470	Alfred Molina
+72471	Alison Folland
+72472	Ann Magnuson
+72473	Bernadette Quigley
+72474	Edward Furlong
+72475	Ellen Lancaster
+72476	Jay Potter
+72477	John Wylie
+72478	John Deyle
+72479	John Heard
+72480	John Webber
+72481	Julia Weldon
+72482	Kaiulani Lee
+72483	Oliver Graney
+72484	Robert Westenberg
+72485	Sharon Ullrick
+72486	Susan May Pratt
+72487	Tim Cavanaugh
+72488	Wesley Addy
+72489	Paul Young
+72490	Andrea Morris
+72491	Barry Dunn
+72492	Clive Russell
+72493	Craig Olejnik
+72494	Elizabeth Richardson
+72495	Ida Donovan
+72496	Kenneth Welsh
+72497	Matt Zimmerman
+72498	Norma Dell'Agnese
+72499	Peter Boretski
+72500	Peter MacLean
+72501	Peter Marinker
+72502	Sam White
+72503	Sean Hewitt (II)
+72504	Terry O'Keefe
+72505	Eddy Mitchell
+72506	Michel Serrault
+72507	Sabine Azéma
+72508	Anne Frank
+72509	Ashley Johnson
+72510	Miep Gies
+72511	Antony Sher
+72512	Charlotte Coleman
+72513	Dorothea Alexander
+72514	Hugh O'Conor
+72515	Jack Deam
+72516	Norman Caro
+72517	Paul Stacey
+72518	Robert Demeger
+72519	Roger Lloyd-Pack
+72520	Ruth Sheen
+72521	Samantha Edmonds
+72522	Tobias Arnold
+72523	Bill Sage
+72524	David Thornton
+72525	Dominic Chianese
+72526	Elle Macpherson
+72527	Emily Anne Hart
+72528	Eric Schaeffer
+72529	Paul Greco
+72530	Robert John Burke
+72531	Sarah Jessica Parker
+72532	Scarlett Johansson
+72533	Adam James
+72534	Alan Arkin
+72535	Candice Daly
+72536	Cody Glenn
+72537	Dominik García-Lorido
+72538	Drucilla A. Carlson
+72539	Duane Davis
+72540	Frank Ray Perilli
+72541	Fred Asparagus
+72542	Fred Lehto
+72543	Joe Pantoliano
+72544	Kevin McCarthy
+72545	Leata Galloway
+72546	Lee de Broux
+72547	Miguel Nino
+72548	Mike Nussbaum
+72549	Natalia Nogulich
+72550	Nick Pellegrino
+72551	Pamela Winslow
+72552	Philip Arthur Ross
+72553	Rachel Ticotin
+72554	Renee Victor
+72555	Rita Taggart
+72556	Robert Lesser
+72557	Ron Dean
+72558	Salvatore Basile
+72559	Sam Vlahos
+72560	Steven Robert Ross
+72561	Takaaki Ishibashi
+72562	Tim Winters
+72563	Tom Wood
+72564	William Marquez
+72565	Anthony Ruivivar
+72566	Bill Hunter
+72567	Casey Affleck
+72568	Dante Basco
+72569	Eliza Dushku
+72570	Halle Berry
+72571	James Belushi
+72572	Kevin Tighe
+72573	Steve Zahn
+72574	Alain Goulem
+72575	Ashley Billard
+72576	Brian Dodd
+72577	Brian Dooley
+72578	David Hewlett
+72579	Ed Martin
+72580	Greg Thomey
+72581	Jon Hoddinott
+72582	Jonathan Lewis
+72583	Kristine Demers
+72584	Lise Roy
+72585	Mary Walsh
+72586	Maurice Podbrey
+72587	Michael Wade
+72588	Philip Dinn
+72589	Sam Grana
+72590	Sebastian Spence
+72591	Sheena Larkin
+72592	Timothy Webber
+72593	Aleta Helena Chappelle
+72594	Andre B. Blake
+72595	Bebe Drake
+72596	Chris Rock
+72597	Eartha Kitt
+72598	Frank Rivers
+72599	Frank Tarsia
+72600,"Gene ""Groove"" Allen"
+72601	Geoffrey Holder
+72602	Grace Jones
+72603	John Canada Terrell
+72604	Kenny Blank
+72605	Leonard Jackson
+72606	Martin Lawrence
+72607	Melvin Van Peebles
+72608	Olga Merediz
+72609	Raye Dowell
+72610	Reginald Hudlin
+72611	Robin Givens
+72612	Tisha Campbell
+72613	Tisha Campbell-Martin
+72614	Tom Mardirosian
+72615	Warrington Hudlin
+72616	Brigitte Lin
+72617	Faye Wong
+72618	Tony Leung Chiu Wai
+72619	Takeshi Kaneshiro
+72620	Tony Leung Chiu-Wai
+72621	Valerie Chow
+72622	Antonella Attili
+72623	Clelia Rondinella
+72624	Franco Scaldati
+72625	Jane Alexander
+72626	Leo Gullotta
+72627	Leopoldo Trieste
+72628	Luigi Maria Burruano
+72629	Nicola Di Pinto
+72630	Sergio Castellitto
+72631	Tano Cimarosa
+72632	Tiziana Lodato
+72633	Tony Sperandeo
+72634	George Segal
+72635	Alan Alda
+72636	Beth Ostrosky
+72637	Charlet Oberly
+72638	Clarke Bittner
+72639	Cynthia Lamontagne
+72640	David Patrick Kelly
+72641	Don Creech
+72642	Glenn Fitzgerald
+72643	John Ford Noonan
+72644	Jonathan Teague Cook
+72645	Lily Tomlin
+72646	Mary Tyler Moore
+72647	Nadia Dajani
+72648	Patricia Arquette
+72649	Shawn Michael Howard
+72650	Steve Moreno
+72651	Suzanne Snyder
+72652	Téa Leoni
+72653	Tony Kruk
+72654	Tori Davis
+72655	Carole Finn
+72656	Freddie Jones
+72657	Jason James Richter
+72658	Julie Cox
+72659	Melody Kay
+72660	Maggie Cogan
+72661	Katina Pendleton
+72662	James Marsh
+72663	Bob Balaban
+72664	Brent Spiner
+72665	Brian Davila
+72666	Christine Ebersole
+72667	Christine Lahti
+72668	David Rasche
+72669	Dey Young
+72670	Gokul
+72671	John Goodman
+72672	Kathryn Grody
+72673	Kevin Scannell
+72674	Peggy Miley
+72675	Peter Riegert
+72676	Sidney Chankin
+72677	Thomas Wagner
+72678	Wil Wheaton
+72679	Michael Legge
+72680	Andrew Bennett
+72681	Ciaran Owens
+72682	Eanna Mac Liam
+72683	Emily Watson
+72684	Joe Breen
+72685	Pauline McLynn
+72686	Robert Carlyle
+72687	Ronnie Masterson
+72688	Shane Murray-Corcoran
+72689	Aidan Grenell
+72690	Aiden Grennell
+72691	Aisling Leyne
+72692	Alan Devine
+72693	Alan Pentony
+72694	Allen Panginy
+72695	Amber Hibler
+72696	Ann Weakley
+72697	Anne Parillaud
+72698	Barbara Alyn Woods
+72699	Christine Keane
+72700	Christopher Casson
+72701	Corban Walker
+72702	Corbin Walker
+72703	Corine Blue
+72704	David Parnell
+72705	Dearbhla Molloy
+72706	Derry Power
+72707	Edward Naessens
+72708	Elizabeth Haas Keller
+72709	Georgina Cates
+72710	Guy Verame
+72711	Jean-Claude Frissung
+72712	Jessie-Ann Friend
+72713	John S. Davies
+72714	Julian Negulesco
+72715	Julian Wadham
+72716	Julien Negulesco
+72717	Kit Kincannon
+72718	Laurent Mellet
+72719	Niall Toibin
+72720	Owen Roe
+72721	Pauline Cadell
+72722	Rudi Davies
+72723	Sage Allen
+72724	Tristan Gribbin
+72725	Ulrich Funke
+72726	Victoria Begeja
+72727	Arthur J. Nascarella
+72728	Bob Dorian
+72729	Brian Markinson
+72730	Brian McConnachie
+72731	Bruce Brown
+72732	Carmen
+72733	Carole Bayeux
+72734	Charlize Theron
+72735	Chuck Wilson
+72736	Dan Aykroyd
+72737	Dick Hyman
+72738	Elizabeth Berkley
+72739	Helen Hunt
+72740	Herb Lovelle
+72741	Howard Alden
+72742	Howard Erskine
+72743	Ira Wheeler
+72744	Irwin Corey
+72745	Joel Helleny
+72746	John Tormey
+72747	John Doumanian
+72748	John Schuck
+72749	Judy Gold
+72750	Kaili Vernoff
+72751	Ken Peplowski
+72752	Kevin Cahoon
+72753	Lawrence Feldman
+72754	Mark Rydell
+72755	Maurice Sonnenberg
+72756	Michael Mulheren
+72757	Patrick Horgan
+72758	Peter Linari
+72759	Peter Ecklund
+72760	Peter Gerety
+72761	Ramsey Faragallah
+72762	Randy Sandke
+72763	Ray Beckenstein
+72764	Ray Garvey
+72765	Ted Sommer
+72766	Tina Sloan
+72767	Trude Klein
+72768	Vince Giordano & the Nigh...
+72769	Chris Grigg
+72770	Don Joyce
+72771	Doug Kahn
+72772	Lloyd Dunn
+72773	Mark Hosler
+72774	Ancel Cook
+72775	Andrew English
+72776	Annie Talbot
+72777	Bob Dini
+72778	Bruce Dern
+72779	Dennis Fimple
+72780	Duane Martin
+72781	Elliot Easton
+72782	Eugene Daniel
+72783	Harland Williams
+72784	Harry Dean Stanton
+72785	Jackson Sleet
+72786	James Harper
+72787	James Martin Jr.
+72788	Jamie James
+72789	John Shepherd
+72790	Jonathan Penner
+72791	Jordan Marder
+72792	Joseph Keawkalaya
+72793	Kelsey Grammer
+72794	Kenneth Hudson Campbell
+72795	Matt Landers
+72796	Michael William Connors
+72797	Mitch Danton
+72798	Patton Oswalt
+72799	Paul Tranghese
+72800	Pierrino Mascarino
+72801	Rob Schneider
+72802	Robert Grochau
+72803	Rudy Hornish
+72804	Soto Joe Hugh
+72805	Steve Giralo
+72806	Toby Huss
+72807	Todd Odom
+72808	Tommy Terrell
+72809	Jean Seberg
+72810	Mary Bet Hurt
+72811	Mary Beth Hurt
+72812	Rick Roberts
+72813	David Alpay
+72814	Karen Hines
+72815	Laura Linney
+72816	Lewis Black
+72817	Linda Kash
+72818	Sasha Roiz
+72819	Arnold Vosloo
+72820	Bob Apisa
+72821	Chuck Pfarrer
+72822	Dave Efron
+72823	Douglas Forsythe Rye
+72824	Eliott Keener
+72825	Jeanette Kontomitras
+72826	Joe Warfield
+72827	Jules Sylvester
+72828	Kasi Lemmons
+72829	Marco St. John
+72830	Michael D. Leinert
+72831	Mike Leinert
+72832	Nancy Nayor
+72833	Robert Apisa
+72834	Robert Pavlovich
+72835	Sven Ole Thorsen
+72836	Theodore Raimi
+72837	Valerie McCaffrey
+72838	Wilford Brimley
+72839	Willie C. Carpenter
+72840	Yancy Butler
+72841	Miguel Pérez
+72842	Andy Prosky
+72843	Bruce Gray
+72844	Charles Noland
+72845	Charlie Holliday
+72846	Cynthia Szigeti
+72847	Daniel Zacapa
+72848	Dedee Pfeiffer
+72849	Dennis Dun
+72850	Ed Amatrudo
+72851	Edwina Moore
+72852	Elizabeth Ruscio
+72853	Fabian
+72854	Fern Buchner
+72855	Ginny Graham
+72856	Heidi Swedberg
+72857	Joanna Sanchez
+72858	Joe Mantegna
+72859	Julie Foreman
+72860	Lexie D. Bigham
+72861	Michael Laskin
+72862	Michael Shamus Wiles
+72863	Neil Giuntoli
+72864	Nicholas Cascone
+72865	Nigel Gibbs
+72866	Noble Willingham
+72867	Norman Parker
+72868	Raymond Cruz
+72869	Rick Warner
+72870	Robert Redford
+72871	Salvadore Levy
+72872	Scott Bryce
+72873	Stockard Channing
+72874	Tom McCarthy
+72875	James Hill
+72876	Al Rodrigo
+72877	Amy Powell
+72878	Andres Fuentes
+72879	Ann Cusack
+72880	Anthony Richard Gonzalez
+72881	Barry Nolan
+72882	Calista Flockhart
+72883	Christine Baranski
+72884	Dan Futterman
+72885	Dante Lamar Henderson
+72886	David Sage
+72887	Dianne Wiest
+72888	Dorothy Constantine
+72889	Francesca Cruz
+72890	Grant Heslov
+72891	Herschel Sparber
+72892	J. Roy Helland
+72893	James H. Morrison
+72894	James Lally
+72895	Jim Jansen
+72896	John Pontrelli
+72897	Kevin Stea
+72898	Kirby Mitchell
+72899	Lee Delano
+72900	Luca Tommassini
+72901	Luis Camacho
+72902	Madeleine Lee Gilford
+72903	Marjorie Lovett
+72904	Mary Major
+72905	Mike Kinsley
+72906	Nathan Lane
+72907	Rabbi Robert K. Baruch
+72908	Ronald Pitts
+72909	Scott Kaske
+72910	Stanley de Santis
+72911	Steven Porfido
+72912	Sylvia Short
+72913	Tim Kelleher
+72914	Tom McGowan
+72915	Tony Snow
+72916	Trina McGee-Davis
+72917	Mirko Boman
+72918	Slavko Brankov
+72919	Ivan Brkic
+72920	Zlatko Crnkovic
+72921	Angelo Santiago
+72922	Tony Zazula
+72923	Frank Finlay
+72924	George Coe
+72925	Michael York
+72926	Morgan Fairchild
+72927	Mustafa Nadarevic
+72928	Paul Guilfoyle
+72929	Ray Girardin
+72930	William Hootkins
+72931	Catharine Bolz
+72932	Connie Britton
+72933	Edward Burns
+72934	Elizabeth McKay
+72935	Jack Mulcahy
+72936	Jennifer Jostyn
+72937	Maxine Bahns
+72938	Mike McGlone
+72939	Shari Albert
+72940	Anna Levine
+72941	Cory Hodges
+72942	Emmanuel Xuereb
+72943	Frank John Hughes
+72944	Karen Alexander
+72945	Kevin Corrigan
+72946	Lisa Boyle
+72947	Marg Helgenberger
+72948	Mario Ernesto Sánchez
+72949	Mark Dana
+72950	Mike Kirton
+72951	Ralph Gonzalez
+72952	Sam Ayers
+72953	Saverio Guerra
+72954	Theresa Randle
+72955	Tiffany Samuels
+72956	Tony Bolano
+72957	Vic Manni
+72958	Will Knickerbocker
+72959	Will Smith
+72960	Fei Lung Huang
+72961	Ryan Slater
+72962	Stephen Lang
+72963	Wang Fei
+72964	Yi Ding (II)
+72965	John Hoyt
+72966	Jim Carroll
+72967	Akiko Ashley
+72968	Alexander Gaberman
+72969	Ben Jorgensen
+72970	Brittany Daniel
+72971	Bruno Kirby
+72972	Cynthia Daniel
+72973	Doc Dougherty
+72974,"Erik ""Panther"" Betts"
+72975	Ernie Hudson
+72976	Gary Iorio
+72977	James Madio
+72978	Jimmy Papiris
+72979	John C. Vennema
+72980	Josh Mostel
+72981	Joyce R. Korbin
+72982	Lawrence Barth
+72983	Leonardo DiCaprio
+72984	Lorraine Bracco
+72985	Manny Alfaro
+72986	Manny Siverio
+72987	Marilyn Sokol
+72988	Mark Wahlberg
+72989	Nick Gaetani
+72990	Patrick McGaw
+72991	Roy Cooper
+72992	Tom Fitzpatrick
+72993	William Webb
+72994	Agnes Bernelle
+72995	Alan Cox
+72996	Brendan Conroy
+72997	Brian McGrath
+72998	Carol Drinkwater
+72999	Chris Kenevey
+73000	Clive Merrison
+73001	Earl Gill
+73002	Edward Petherbridge
+73003	Hilary Reynolds
+73004	James Frain
+73005	John Drummond
+73006	Johnny Murphy
+73007	Nicola Pagett
+73008	Pat Laffan
+73009	Patti Love
+73010	Peter Firth
+73011	Peter O'Farrell
+73012	Prunella Scales
+73013	Rita Tushingham
+73014	Ruth McCabe
+73015	Tom Hickey
+73016	Willie Smith
+73017	Aldo Bigante
+73018	Alex D. Linz
+73019	Brad Garrett
+73020	Dawn Didawick
+73021	Eileen Brennan
+73022	Elden Henson
+73023	Elliot Cates
+73024	Fiona Hunter
+73025	Jayne Taini
+73026	Jeanne Tripplehorn
+73027	Judy Greer
+73028	Lauren Graham
+73029	Melinda Dahl
+73030	Norm O'Neill
+73031	Patrick Fugit
+73032	Ted Danson
+73033	Tim Blake Nelson
+73034	Troy R. Brenna
+73035	Valerie Perrine
+73036	John Wheeler
+73037	Herbert Jefferson Jr.
+73038	Carl Gabriel Yorke
+73039	Andrew Lipschultz
+73040	Andy Milder
+73041	Ben Bode
+73042	Ben Marley
+73043	Bill Paxton
+73044	Brett Cullen
+73045	Bruce Wright
+73046	Christian Clemenson
+73047	Christopher John Fields
+73048	Clint Howard
+73049	David Andrews
+73050	Gary Sinise
+73051	Geoffrey Blake
+73052	James Ritz
+73053	Jean Speegle Howard
+73054	J.J. Chaback
+73055	Joe Spano
+73056	John Short
+73057	John Dullaghan
+73058	John M. Mathews
+73059	Joseph Culp
+73060	Julie Donatt
+73061	Karen Martin
+73062	Kathleen Quinlan
+73063	Kenneth White
+73064	Larry B. Williams
+73065	Louisa Marie
+73066	Marc McClure
+73067	Mark Wheeler
+73068	Mary Kate Schellhardt
+73069	Max Elliott Slade
+73070	Max Grodénchik
+73071	Michelle Little
+73072	Miko Hughes
+73073	Ned Vaughn
+73074	Paul Mantee
+73075	Rance Howard
+73076	Ray McKinnon
+73077	Reed Rudy
+73078	Roger Corman
+73079	Ryan Holihan
+73080	Steve Ruge
+73081	Todd Hallowell
+73082	Todd Louiso
+73083	Tracy Reiner
+73084	Wayne Duvall
+73085	Jessica Lange
+73086	Andrew Keir
+73087	Brian McCardie
+73088	David Hayman
+73089	Eric Stoltz
+73090	Ewan Stewart
+73091	Gilbert Martin
+73092	Gilly Gilchrist
+73093	Jason Flemyng
+73094	John Hurt
+73095	Shirley Henderson
+73096	Vicki Masson
+73097	Anne Caillon
+73098	Andre Schneider
+73099	Charlotte Rampling
+73100	David Morrissey
+73101	Flora Montgomery
+73102	Heathcote Williams
+73103	Hugh Dancy
+73104	Iain Robertson
+73105	Indira Varma
+73106	Kata Dob?13
+73107	Stan Collymore
+73108	Mike Smith
+73109	Bruce Roberts
+73110	Chris O'Donnell
+73111	Cindy Herron
+73112	Corey Jacoby
+73113	Debi Mazar
+73114	Dennis Paladino
+73115	Don 'The Dragon' Wilson
+73116	Drew Barrymore
+73117	Ed Begley Jr
+73118	Eileen Seeley
+73119	Elizabeth Sanders
+73120	Gary Kasper
+73121	Greg Lauren
+73122	Jack Betts
+73123	Jed Curtis
+73124	Jessica Tuck
+73125	John Fink
+73126	Jon Favreau
+73127	Kimberly Scott
+73128	Maurice Lamont
+73129	Michael Gough
+73130	Michael Paul Chan
+73131	Nicole Kidman
+73132	Pat Hingle
+73133	Peter Radon
+73134	Philip Moon
+73135	Rene Auberjonois
+73136	Ria Coyne
+73137	Tommy Lee Jones
+73138	Bernard Fresson
+73139	Bernard Musson
+73140	Brigitte Parmentier
+73141	Catherine Deneuve
+73142	Claude Cerval
+73143	Dominique Dandrieux
+73144	Francis Blanche
+73145	Francisco Rabal
+73146	Francois Maistre
+73147	Francoise Fabian
+73148	Geneviève Page
+73149	Georges Marchal
+73150	Iska Khan
+73151	Jean Sorel
+73152	Macha Méril
+73153	Marc Eyraud
+73154	Marcel Charvey
+73155	Maria Latour
+73156	Michel Charrel
+73157	Michel Piccoli
+73158	Muni
+73159	Pierre Clémenti
+73160	Adelle Lutz
+73161	Charley Boorman
+73162	Enzo Rossi
+73163	Frances McDormand
+73164	Spalding Gray
+73165	Ahmed Ben Larby
+73166	Billy Cherry
+73167	Charles LaSalle
+73168	Chelsea Altman
+73169	Chief Bey
+73170	Cotton Green
+73171	Dale Stotts
+73172	Debra Wilson
+73173	Diana Brownstone
+73174	Edmund Ikeda
+73175	Eileen Galindo
+73176	Esteban Fernandez
+73177	Ginger Thatcher
+73178	Gregory Misclagno
+73179	Ian Frazier
+73180	James Dickson
+73181	Jared Harris
+73182	Jim Jarmusch
+73183	John Lurie National Orche...
+73184	Karen Robert Jackson
+73185	Kyle Larson
+73186	Lisa Scarola
+73187	Liz Anne Curtis
+73188	Liz Ramos
+73189	Luc Sante
+73190	Malik Yoba
+73191	Mel Gorham
+73192	Michelle Hurst
+73193	Nick Kosovich
+73194	Peggy Gormley
+73195	Raymond Rodriguez
+73196	Rehanna Ellis
+73197	Roseanne
+73198	RuPaul
+73199	Rusty Kanokoci
+73200	Sasalina Gambino
+73201	Sharif Rashed
+73202	Stephen Gevedon
+73203	Tatienne Hendricks-Tellef...
+73204	Teodorino Bello
+73205	William Preston Robertson
+73206	Michael Moore
+73207	Beth Amos
+73208	Brad Sullivan
+73209	Bruce Hunter
+73210	Carlton Watson
+73211	Dana Brooks
+73212	Fab Filippo
+73213	Jack Mather
+73214	John Candy
+73215	Kenner Ames
+73216	Kevin J. O'Connor
+73217	Matt Cooke
+73218	Michael Copeman
+73219	Michael Woods
+73220	Rhea Perlman
+73221	Richard Council
+73222	Roger Dunn
+73223	Sheila Gray
+73224	Stan Coles
+73225	Steven Wright
+73226	Ben Stein
+73227	Cathy Moriarty
+73228	Don Novello
+73229	Eric Idle
+73230	Ernestine Mercer
+73231	Garette Ratliff Henson
+73232	Jessica Wesson
+73233	J.J. Anderson
+73234	Joe Alaskey
+73235	Joe Nipote
+73236	Malachi Pearson
+73237	Mike Simmrin
+73238	Mister Rogers
+73239	Rodney Dangerfield
+73240	Spencer Vrooman
+73241	Wesley Thompson
+73242	Steve White
+73243	Brendan Kelly
+73244	Anthony Nocerino
+73245	Christopher Wynkoop
+73246	E.O. Nolasco
+73247	Ginny Yang
+73248	Graham Brown
+73249	Harry J. Lennix
+73250	Hassan Johnson
+73251	James Saxenmeyer
+73252	J.C. MacKenzie
+73253	Jeff Ward
+73254	Joanna Gardner
+73255	John Fletcher
+73256	John Turturro
+73257	Ken Garito
+73258	Lawrence B. Adisa
+73259	L.B. Williams
+73260	Leonard Thomas
+73261	Lisa Arrindell Anderson
+73262	Marc Webster
+73263	Maurice Sneed
+73264	Mekhi Phifer
+73265	Paul Schulze
+73266	Pee Wee Love
+73267	Regina Taylor
+73268	Rick Aiello
+73269	Ron Brice
+73270	Scot Anthony Robinson
+73271	Spike Lee
+73272	Thomas Jefferson Byrd
+73273	Bruce Campbell
+73274	Carolyn Seymour
+73275	David Anthony
+73276	Dylan Walsh
+73277	James Paradise
+73278	Jimmy Buffett
+73279	Joel Weiss
+73280	John Cameron
+73281	Kathleen Connors
+73282	Lawrence T. Wrentz
+73283	Lorene Noh
+73284	Mary Ellen Trainor
+73285	Misty Rosas
+73286	Nicholas Kadi
+73287	Peter Anthony Elliott
+73288	Philip Tan
+73289	Romy Rosemont
+73290	William John Murphy
+73291	Bob Stone
+73292	Christopher Birt
+73293	Danny Nucci
+73294	Dennis Garber
+73295	Denzel Washington
+73296	Earl Billings
+73297	Eric Bruskotter
+73298	Henry Mortensen
+73299	Jaime Gomez
+73300	Jason Robards Jr.
+73301	Jim Boyce
+73302	Lillo Brancato Jr.
+73303	Mark Christopher Lawrence
+73304	Michael Chieffo
+73305	Michael D. Weatherred
+73306	Michael Milhoan
+73307	Rad Daly
+73308	Rick Schroder
+73309	Rocky Carroll
+73310	Scott Burkholder
+73311	Scott Grimes
+73312	Sean O'Bryan
+73313	Vanessa Bell Calloway
+73314	Viggo Mortensen
+73315	Warren Olney
+73316	Robert Hughes
+73317	Aline Kominsky
+73318	Charles Crumb
+73319	Maxon Crumb
+73320	Robert Crumb
+73321	Joaquim de Almeida
+73322	Abraham J. Verduzco
+73323	Carlos Gomez
+73324	Consuelo Gómez
+73325	Peter Marquardt
+73326	Robert Arevalo
+73327	Albert Hall
+73328	Barry Shabaka Henley
+73329	Beau Starr
+73330	David Wolos Fonteno
+73331	Deborah Lacey
+73332	Frank Davis
+73333	G. Smokey Campbell
+73334	J.D. Smith
+73335	Jeris Poindexter
+73336	Jernard Burks
+73337	John Roselius
+73338	L. Scott Caldwell
+73339	Lisa Nicole Carson
+73340	Nicky Corello
+73341	Peggy Rea
+73342	Renee Humphrey
+73343	Scott Lincoln
+73344	Terry Kinney
+73345	Vinny Argiro
+73346	Gerry Becker
+73347	Michael Tadross
+73348	Anthony Peck
+73349	Anthony Thomas
+73350	Birdie M. Hale
+73351	Charles Dumas
+73352	Colleen Camp
+73353	Darryl Edwards
+73354	James Saito
+73355	Jeremy Irons
+73356	Joe Zaloom
+73357	John McTiernan Sr.
+73358	John Robert Tillotson
+73359	J.R. Horne
+73360	Larry Bryggman
+73361	Michael Cristofer
+73362	Mischa Hausserman
+73363	Nicholas Wyman
+73364	Patricia Mauceri
+73365	Phyllis Yvonne Stickney
+73366	Richard Russell Ramos
+73367	Robert Sedgwick
+73368	Sam Phillips
+73369	Samuel L. Jackson
+73370	Sharon Washington
+73371	Stephen Pearlman
+73372	Tony Travis
+73373	Victor Rojas
+73374	Amanda Bearse
+73375	Billy Bullet
+73376	Cevin Key
+73377	Christopher Knight
+73378	Cress Williams
+73379	Dewey Weber
+73380	Don Galloway
+73381	Dustin Nguyen
+73382	Dwayne R. Goettel
+73383	James Duval
+73384	Johanna Went
+73385	Lauren Tewes
+73386	Margaret Cho
+73387	Nicky Katt
+73388	Nivek Ogre
+73389	Parker Posey
+73390	Paul D. Fow
+73391	Perry Farrell
+73392	Salvator Xuereb
+73393	Skinny Puppy
+73394	Zak Spears
+73395	Alan Perrin
+73396	Arthur Kelly
+73397	Ben Chaplin
+73398	Charles De'Ath
+73399	Colin Mayes
+73400	Colin Prockter
+73401	Daphne Neville
+73402	David Belcher
+73403	David Neal
+73404	Dominic Gover
+73405	Embeth Davidtz
+73406	James Purefoy
+73407	Julian Protheroe
+73408	Kate Hamblyn
+73409	Kenneth Anderson
+73410	Mark Bazeley
+73411	Mark Heal
+73412	Mark Whelehan
+73413	Paddy Ward
+73414	Richard Hicks
+73415	Richard Hope
+73416	Rupert Bates
+73417	Stephen Frost
+73418	Tim Perrin
+73419	Tim Preece
+73420	Tom Bell
+73421	Tom Marshall
+73422	Ben Cross
+73423	Albie Woodington
+73424	Charlotte Zucker
+73425	Christopher Villiers
+73426	Colin McCormack
+73427	Eric Stone
+73428	John Gielgud
+73429	Julia Ormond
+73430	Liam Cunningham
+73431	Mark Ryan
+73432	Ralph Ineson
+73433	Richard Gere
+73434	Ryan Todd
+73435	Sean Connery
+73436	Stuart Bunce
+73437	Susan Breslau
+73438	Susannah Corbett
+73439	Tom Lucy
+73440	Valentine Pelka
+73441	Al Sapienza
+73442	August Schellenberg
+73443	Basil Wallace
+73444	Doug Ballard
+73445	Edward J. Rosen
+73446	Elizabeth Peña
+73447	Francis Capra
+73448	Jayne Atkinson
+73449	Jeff Brooks
+73450	Joan Lunden
+73451	John Considine
+73452	John Harms
+73453	Julie Inouye
+73454	June Christopher
+73455	M. Emmet Walsh
+73456	Marguerite Moreau
+73457	Michael Madsen
+73458	Neal Matarazzo
+73459	Paul Tuerp?19
+73460	Stephen Kahan
+73461	Susan Brooks
+73462	Wally Dalton
+73463	Marc Anthony
+73464	Alberta Watson
+73465	Angelina Jolie
+73466	Annemarie Zola
+73467	Bill Maul
+73468	Blake Willett
+73469	Bob Sessions
+73470	Christo Morse
+73471	Christopher Waller
+73472	Darren Lee
+73473	Dave Stewart
+73474	Denise George
+73475	Don Hewitt Sr.
+73476	Douglas W. Iles
+73477	Enzo Junior
+73478	Eric Loren
+73479	Ethan Browne
+73480	Felix Santiago
+73481	Fisher Stevens
+73482	Gary Howard Klar
+73483	Jeb Handwerger
+73484	Jeff Harding
+73485	Jennifer Badger
+73486	Jennifer Rice
+73487	Jesse Bradford
+73488	Johnny Myers
+73489	Jonny Lee Miller
+73490	Joseph Lloyd
+73491	Kal Weber
+73492	Kevin Brewerton
+73493	Kimbra Standish
+73494	Kristin Moreau
+73495	Laurence Mason
+73496	Lawrence Mason
+73497	Liza Walker
+73498	Matthew Lillard
+73499	Max Ligosh
+73500	Melissa Barkan
+73501	Michael Potts
+73502	Mick O'Rourke
+73503	Mike Cicchetti
+73504	Mitchell Nguyen-McCormick
+73505	Nancy Ticotin
+73506	Naoko Mori
+73507	Olegario Fedoro
+73508	Paul Klementowicz
+73509	Peter Kim
+73510	Ralph Winter
+73511	Ricco Ross
+73512	Richard Purro
+73513	Richard Ziman
+73514	Roberta Gotti
+73515	Sam Douglas
+73516	Steven Angiolini
+73517	Terry Porter
+73518	Tom Clarke Hill
+73519	Tony Sibbald
+73520	William DeMeo
+73521	Yoshinori Yamamoto
+73522	Albert Macklin
+73523	Alice Drummond
+73524	Bryan Batt
+73525	Camryn Manheim
+73526	Christopher Davis
+73527	Ethan Phillips
+73528	Gregory Jbara
+73529	Henry Stram
+73530	Irma St. Paule
+73531	Jeffrey Ross
+73532	Joe Ponazecki
+73533	K. Todd Freeman
+73534	Kathy Najimy
+73535	Lenka Peterson
+73536	Mary Bond Davis
+73537	Marylouise Burke
+73538	Michael T. Weiss
+73539	Michele Pawk
+73540	Patrick Stewart
+73541	Peter Maloney
+73542	Peter Bartlett
+73543	Peter Jacobson
+73544	Robert Klein
+73545	Sarah Peterson
+73546	Tom Cayler
+73547	Victor Garber
+73548	Vinnie Capone
+73549	Ice-T
+73550	Coyote Shivers
+73551	Beat Takeshi Kitano#46538
+73552	Barbara Sukowa
+73553	Denis Akiyama
+73554	Dina Meyer
+73555	Dolph Lundgren
+73556	Don Francks
+73557	Falconer Abraham
+73558	Gene Mack
+73559	Keanu Reeves
+73560	Lynne Adams
+73561	Marlow Vella
+73562	Sherry Miller
+73563	Silvio Oliviero
+73564	Takeshi Kitano
+73565	Tracy Tweed
+73566	Udo Kier
+73567	Von Flores
+73568	Diane Lane
+73569	Jürgen Prochnow
+73570	Angus MacInnes
+73571	Armand Assante
+73572	Ed Stobart
+73573	Ian Dury
+73574	Joan Chen
+73575	Joanna Miles
+73576	Mattieu Ricard
+73577	Maurice Roëves
+73578	Max von Sydow
+73579	Mitchell Ryan
+73580	Pat Starr
+73581	Phil Smeeton
+73582	Sylvester Stallone
+73583	Richard T. Jones
+73584	Abe Vigoda
+73585	Brian Doyle-Murray
+73586	Charles Napier
+73587	Gregory Cooke
+73588	Jay Kogen
+73589	Richard Edson
+73590	Sean Whalen
+73591	Shelley Winters
+73592	Stanley Tucci
+73593	Tia Carrere
+73594	Adriane Brown
+73595	Alan Wise
+73596	Alex Glen
+73597	Alexandra Karabell
+73598	Amy Moy
+73599	Atabey Rodriguez
+73600	Avi Koren
+73601	Beth Weinstein
+73602	Billy Solomon
+73603	Billy Valdes
+73604	Billy Waldeman
+73605	Carisa Glucksman
+73606	Carl Ly-Min
+73607	Chlo?Sevigny
+73608	Christian Bruna
+73609	Christiana Stebe-Glorius
+73610	Corina Deleon
+73611	Daniel Phillips
+73612	Darice Liguidi
+73613	Deborah Draper
+73614	Dr. Henry Anderson
+73615	Eddie Peel
+73616,"Ellsworth ""Cisco"" Davis"
+73617	Francine Fuertes
+73618	Frank Natiello
+73619	Gerry Smith
+73620	Gillian Goldstein
+73621	Giovanni Estevez
+73622	Hamilton Harris
+73623	Harold Hunter
+73624	Jam
+73625,"Jamel ""Redrum"" Simmons"
+73626	Jamie Story
+73627	Jason Iconstanti
+73628	Javier Núñez
+73629	Jeff Pang
+73630	Jeff Simmons
+73631	Jim Gordy
+73632	Jimmy Lalputan
+73633	Joey Alvarez
+73634	Johanna Ignatov
+73635	John Carter
+73636	John Dean
+73637	John Perez
+73638	Jon Abrahams
+73639	Jonathan Staci Kim
+73640	Jorge Luis Nuñez
+73641	Joseph Chan
+73642	Joseph Knopfelmacher
+73643	Julia Mendoza
+73644	Julie Ho
+73645	Julie Stebe-Glorius
+73646	Justin Pierce
+73647	Karyn Grupski
+73648	Lavar McBride
+73649	Leo Fitzpatrick
+73650	Lila Lee
+73651	Lisa Acevedo
+73652	Louie Louie
+73653	Medwin Pang
+73654	Michele Lockwood
+73655	Mike Hernandez
+73656	Nick Lockman
+73657	Nuri Bell
+73658	Peter Bici
+73659	Priscilla Forsyth
+73660	Raymond Batista
+73661	Regina Mei
+73662	Rich Arbitelle
+73663	Ronald Hunter
+73664	Rosario Dawson
+73665	Ryan Sikorski
+73666	Sajan Bhagat
+73667	Sarah Henderson
+73668	Scot Schwartz
+73669	Sidney Prawatyotin
+73670	Suzanne Wood
+73671	Thierry Oddo
+73672	Tony Morales
+73673	Walter Youngblood
+73674	Yakira Peguero
+73675	Zulaika Velazquez
+73676	Catherine Keener
+73677	Danielle von Zerneck
+73678	Francesca DiMauro
+73679	Hilary Gilford
+73680	James LeGros
+73681	Lori Tan Chinn
+73682	Matthew Grace
+73683	Michael Griffiths
+73684	Norman Field
+73685	Peter Dinklage
+73686	Rica Martens
+73687	Robert Wightman
+73688	Ryan Bowker
+73689	Tom Jarmusch
+73690	Barry Del Sherman
+73691	Billy McComb
+73692	J. Trevor Edmond
+73693	Joel Sweto
+73694	Scott Bakula
+73695	Sheila Tousey
+73696	Vincent Schiavelli
+73697	Wayne Grace
+73698	Karen Young
+73699	Aidan Devine
+73700	Aiden Devine
+73701	Barbara Jones
+73702	Cameron Bancroft
+73703	Charles S. Doucet
+73704	Gary McKeehan
+73705	Harry Stanjofski
+73706	Joan Heney
+73707	Joanne Vannicola
+73708	Matthew Ferguson
+73709	Mia Kirshner
+73710	Ruth Marshall
+73711	Serge Houde
+73712	Thomas Gibson
+73713	Alisa Christensen
+73714	Barbara Pilavin Gelber
+73715	Blair Tefkin
+73716	Cassian Elwes
+73717	Don Bajema
+73718	Duane Byrne
+73719	Jennifer O'Neill
+73720	Joe Dallesandro
+73721	Joe E. Tata
+73722	Julie Strain
+73723	Kari French
+73724	Margaux Hemingway
+73725	Pam Gidley
+73726	Pamela Gidley
+73727	Pat Crawford Brown
+73728	Paul Bollen
+73729	Peter Spellos
+73730	Richard Ardi
+73731	Jason Lee
+73732	Art James
+73733	Ben Affleck
+73734	Brian O'Halloran
+73735	Claire Forlani
+73736	David Klein
+73737	David Brinkley
+73738	Elizabeth Ashley
+73739	Ethan Suplee
+73740	Jason Mewes
+73741	Jeremy London
+73742	Jonathan Brodie
+73743	Michael Rooker
+73744	Scott Mosier
+73745	Shannen Doherty
+73746	Stan Lee
+73747	Walter Flanagan
+73748	Paul Freeman
+73749	Amy Jo Johnson
+73750	Barbara Goodson
+73751	David Yost
+73752	Gabrielle Fitzpatrick
+73753	Jamie Croft
+73754	Jason Narvy
+73755	Jason David Frank
+73756	Johnny Yong Bosch
+73757	Julia Cortez
+73758	Karan Ashley
+73759	Karen Ashley
+73760	Kerrigan Maham
+73761	Kerry Casey
+73762	Mitchell McMahon
+73763	Nicholas Bell
+73764	Paul Schrier
+73765	Peter Mochrie
+73766	Robert Axelrod
+73767	Robert Simper
+73768	Steve Cardenas
+73769	Alan Clifton
+73770	Jon Bon Jovi
+73771	David Trim
+73772	Elizabeth Perkins
+73773	Erica Luttrell
+73774	Gwyneth Paltrow
+73775	Harrison Liu
+73776	Jack Jessop
+73777	Josef Sommer
+73778	Judah Katz
+73779	Julian Richings
+73780	Kathleen Turner
+73781	Kelli Fox
+73782	Ken Wong
+73783	Matthew Koller
+73784	Scott Wickware
+73785	Shadia Simmons
+73786	Wayne Lam
+73787	Whoopi Goldberg
+73788	Alec Guinness
+73789	Alexandr Pyatkov
+73790	Evan Richards
+73791	Fay Ripley
+73792	Igor Volkov
+73793	Marina Sudina
+73794	Marina Zudina
+73795	Nikolai Pastukhov
+73796	Oleg Yankovskiy
+73797	Oleg Yankovsky
+73798	Sergei Karlenkov
+73799	Jere Gillis
+73800	Julian Casey
+73801	Neville Edwards
+73802	R.H. Thomson
+73803	Andrew Amador
+73804	Brian E. Frankish
+73805	Cam Brainard
+73806	Charles Winkler
+73807	Christopher Darga
+73808	Daniel Schorr
+73809	Danny Breen
+73810	Dennis Miller
+73811	Diane Baker
+73812	Gerald Berns
+73813	Israel Juarbe
+73814	Juan Garcia
+73815	Ken Howard
+73816	Kevin Brown
+73817	Kristina Krofft
+73818	Lucy Butler
+73819	Margo Winkler
+73820	Rick Snyder
+73821	Robert Gossett
+73822	Tony Perez
+73823	Vaughn Armstrong
+73824	Wendy Gazelle
+73825	Alexa Vega
+73826	Betsy Aidem
+73827	Brittany Radcliffe
+73828	Charles Martinet
+73829	Edward Ivory
+73830	Eleanor Columbus
+73831	Emily Yancy
+73832	Joey Simmrin
+73833	Julianne Moore
+73834	Maureen McVerry
+73835	Porscha Radcliffe
+73836	Priscilla Alden
+73837	Sue Murphy
+73838	Terry McGovern
+73839	Anthony De Sando
+73840	Anthony DeSando
+73841	Guillermo Díaz
+73842	Liev Schreiber
+73843	Nicole Bobbitt
+73844	Omar Townsend
+73845	Sasha von Scherler
+73846	Adam Goldberg
+73847	Amanda Plummer
+73848	Elias Koteas
+73849	J.C. Quinn
+73850	Jeff Cadiente
+73851	Moriah Snyder
+73852	Paul Schmidt
+73853	Shawn Nelson
+73854	Steve Hytner
+73855	Virginia Madsen
+73856	Jack Baker
+73857	David Blair
+73858	Robert Gordon
+73859	Al Bayne
+73860	Ann Shoemaker
+73861	Barry Regan
+73862	Billy Snyder
+73863	Bobby Hyatt
+73864	Boyd Davis
+73865	Buddy Gorman
+73866	Byron Poindexter
+73867	Charles Evans
+73868	Charles Jordan
+73869	Charles Marsh
+73870	Claire Carleton
+73871	Cosmo Sardo
+73872	Dan Jackson
+73873	Dorothy Phillips
+73874	Ed Pine
+73875	Everett Glass
+73876	Frances E. Williams
+73877	Gail Bonney
+73878	George Dockstader
+73879	Geraldine Brooks
+73880	Glenn Thompson
+73881	Harry Harvey
+73882	Henry O'Neill
+73883	Holger Bendixen
+73884	James Mason
+73885	Jessie Arnold
+73886	Joan Bennett
+73887	Joe Recht
+73888	John K. Butler
+73889	John Monaghan
+73890	John Roy
+73891	Joseph Palmas
+73892	Karl (Killer) Davis
+73893	Kathryn Card
+73894	Kenneth Kendall
+73895	Louis Mason
+73896	Mike Mahoney
+73897	Norman Leavitt
+73898	Pat Barton
+73899	Pat O'Malley
+73900	Paul E. Burns
+73901	Peter Brocco
+73902	Roy Roberts
+73903	Shepperd Strudwick
+73904	Sue Moore
+73905	Virginia Hunter
+73906	William Schallert
+73907	Dan O'Herlihy
+73908	Dana Elcar
+73909	Dom DeLuise
+73910	Ed Binns
+73911	Edward Binns
+73912	Frank Overton
+73913	Frank Simpson
+73914	Frieda Altman
+73915	Fritz Weaver
+73916	Henry Fonda
+73917	Hildy Parks
+73918	Janet Ward
+73919	John P. Connell
+73920	Louise Larabee
+73921	Nancy Berg Ilsa
+73922	Russell Collins
+73923	Russell Hardie
+73924	Sorrell Booke
+73925	Stuart Germain
+73926	William Hansen
+73927	Dana Ivey
+73928	Francie Swift
+73929	Gary Oldman
+73930	George Aguilar
+73931	Jim Bearden
+73932	Jodhi May
+73933	Judd Jones
+73934	Len Doncheff
+73935	Lisa Joliffe-Andoh
+73936	Lisa Jolliff-Andoh
+73937	Malcolm Storry
+73938	Marguerite McNeil
+73939	Nicholas Rice
+73940	Roy Dotrice
+73941	Sarah Campbell
+73942	Sheldon Peters Wolfchild
+73943	Tim Woodward
+73944	Rick Marotta
+73945	Al Ruscio
+73946	Alan Rachins
+73947	Alexander Folk
+73948	Alexander Zale
+73949	Bobbie Phillips
+73950	Carrie Ann Inaba
+73951	Chris Tedesco
+73952	Fernando Celis
+73953	Gina Gershon
+73954	Gina Ravera
+73955	Greg Travis
+73956	Jack McGee
+73957	Jason Yribar
+73958	Jim Wise
+73959	Joan Foley
+73960	Judette Warren
+73961	Julie Pop
+73962	Kyle MacLachlan
+73963	Lance Davis
+73964	Lin Tucci
+73965	Madison Clarke
+73966	Melissa Williams
+73967	Michelle Johnston
+73968	Patrick Bristow
+73969	Patrick Seymour
+73970	Paul Bates
+73971	Rena Riffel
+73972	Robert Davi
+73973	Robert Dunn
+73974	William Shockley
+73975	Billy Martin
+73976	Baxter Harris
+73977	Clarice Taylor
+73978	Deirdre O'Connell
+73979	Erica Gimpel
+73980	Forest Whitaker
+73981	Harold Perrineau Jr.
+73982	Harold Perrineau
+73983	John Lurie
+73984	Mary B. Ward
+73985	Paul Geier
+73986	William Hurt
+73987	Amy Parrish
+73988	Anne Shropshire
+73989	Deborah Hobart
+73990	Dennis Quaid
+73991	Gena Rowlands
+73992	Haley Aull
+73993	Helen Baldwin
+73994	J. Don Ferguson
+73995	Kyra Sedgwick
+73996	Libby Whittemore
+73997	Mary Nell Santacroce
+73998	Rebecca Koon
+73999	Rhoda Griffis
+74000	Shannon Eubanks
+74001	Terrence Currier
+74002	Michelle Williams
+74003	Alfred Mouna
+74004	Anthony Guidera
+74005	Ben Kingsley
+74006	Caroline Barclay
+74007	Dave Jensen
+74008	David Selburg
+74009	Don Fischer
+74010	Esther Scott
+74011	Gary Bullock
+74012	Herta Ware
+74013	Lucy Rodriguez
+74014	Marliese Schneider
+74015	Natasha Henstridge
+74016	Shirley Prestia
+74017	Virginia Morris
+74018	Whip Hubley
+74019	William Bumiller
+74020	William Utay
+74021	Aidan Quinn
+74022	Billy Bob Thornton
+74023	Brian Dennehy
+74024	Frances Fisher
+74025	Kaytlyn Knowles
+74026	Lexi Randall
+74027	Paul Lazar
+74028	James Acheson
+74029	Agustin Rodriguez
+74030	Art Chudabala
+74031	Brigitte Bako
+74032	Chris Douridas
+74033	David Carrera
+74034	David Packer
+74035	Joe Urla
+74036	John Francis
+74037	Kelly Hu
+74038	Malcolm Norrington
+74039	Maurice Marshall
+74040	Michael Wincott
+74041	Nicole Hilbig
+74042	Paolo Tocha
+74043	Ralph Fiennes
+74044	Ron Young
+74045	Royce Minor
+74046	Stefan Arngrim
+74047	Ted Haler
+74048	Todd Graff
+74049	Vincent D'Onofrio
+74050	Alfred Wolff
+74051	Anne Vernon
+74052	Dorothée Blanc
+74053	Ellen Farner
+74054	Harald Wolff
+74055	Jean Champion
+74056	Marc Michel
+74057	Mireille Perrey
+74058	Mirelle Perrey
+74059	Nino Castelnueva
+74060	Nino Castelnuovo
+74061	Paul Pavel
+74062	Philippe Dumat
+74063	Rosalie Varda
+74064	Jack Johnson
+74065	Tommy Rosales Jr.
+74066	Barbara Tarbuck
+74067	Benjamin Mouton
+74068	Bob Minor
+74069	Bruce A. Young
+74070	Coleen Maloney
+74071	Cynda Williams
+74072	George Marshall Ruge
+74073	Greg Collins
+74074	Jenny Gago
+74075	Julia Devin
+74076	Keith Carradine
+74077	Kerrie Cullen
+74078	Kevin Bourland
+74079	Laurie Latham
+74080	Melanie MacQueen
+74081	Moira Kelly
+74082	Ray Reinhardt
+74083	Vincent Spano
+74084	Michael Wong
+74085	David Anderson
+74086	David Hart
+74087	Annabelle Gurwitch
+74088	Bill Mumy
+74089	Brian Flannery
+74090	Brock Pierce
+74091	David Marshall Grant
+74092	David Zahorsky
+74093	Derek Williams
+74094	Jay Gerber
+74095	Joseph Mazzello
+74096	Michael O'Keefe
+74097	Moira Harris
+74098	Neal McDonough
+74099	Patrick Swayze
+74100	Philip Levien
+74101	Robert Starr
+74102	Scott Patterson
+74103	Seth Mumy
+74104	Vivien Straus
+74105	William G. Schilling
+74106	Andrzej Seweryn
+74107	Christopher Chaplin
+74108	Christopher Hampton
+74109	Christopher Thompson
+74110	Denise Chalem
+74111	Dominique Blanc
+74112	James Thierree
+74113	Nita Klein
+74114	Romane Bohringer
+74115	Arliss Howard
+74116	Beth Grant
+74117	Blythe Danner
+74118	Chris Penn
+74119	Jamie Harrold
+74120	Jason London
+74121	Jerry Orbach
+74122	Joey Arias
+74123	John Leguizamo
+74124	Julie Newmar
+74125	Keith Reddin
+74126	Michael Vartan
+74127	Mike Hodge
+74128	Naomi Campbell
+74129	Quentin Crisp
+74130	Jim Clark
+74131	Brenda Bakke
+74132	Dale Dye
+74133	David Gianopoulos
+74134	Dennis Stewart
+74135	Don Blakely
+74136	Eric Bogosian
+74137	Everett McGill
+74138	Jonathan Banks
+74139	Julius R. Nasso
+74140	Katherine Heigl
+74141	Morris Chestnut
+74142	Nick Mancuso
+74143	Patrick Kilpatrick
+74144	Phyllis Davis
+74145	Ping Wu
+74146	Royce D. Applegate
+74147	Steven Seagal
+74148	Andie MacDowell
+74149	Andrew Craig
+74150	Anne De Salvo
+74151	Candice Azzara
+74152	Candy Azzara
+74153	Chris Warfield
+74154	Giuseppe Andrews
+74155	Joey Andrews
+74156	Julie Pinson
+74157	Kendra Krull
+74158	Lillian Adams
+74159	Lou Cutell
+74160	Mary Mercier
+74161	Michael Richards
+74162	Nathan Watt
+74163	Sean P. Donahue
+74164	Sumer Stamper
+74165	Vince Melocchi
+74166	Zoaunne Le Roy
+74167	Amber Valletta
+74168	Christy Turlington
+74169	Isaac Mizrahi
+74170	Kate Moss
+74171	Linda Evangelista
+74172	Liza Minnelli
+74173	Sandra Bernhard
+74174	Shalom Harlow
+74175	Aitana Sánchez-Gijón
+74176	Alejandra Flores
+74177	Angélica Aragón
+74178	Anthony Quinn
+74179	Brad Rea
+74180	Debra Messing
+74181	Don Amendolia
+74182	Evangelina Elizondo
+74183	Febronio Covarrubias
+74184	Gema Sandoval
+74185	Giancarlo Giannini
+74186	Ismael Gallegos
+74187	Ivory Ocean
+74188	John Dennis Johnston
+74189	Joseph Lindsey
+74190	Juan Antonio Jiménez
+74191	Juan Jimenez
+74192	Macon McCalman
+74193	Mary Pat Gleason
+74194	Roberto Huerta
+74195	Ari Barak
+74196	Chaim Girafi
+74197	Dennis Hopper
+74198	Gerard Murphy
+74199	Jack Kehler
+74200	John Fleck
+74201	John Toles-Bey
+74202	Kevin Costner
+74203	Lee Arenberg
+74204	Leo Cimino
+74205	Leonardo Cimino
+74206	Michael Jeter
+74207	R.D. Call
+74208	Rick Aviles
+74209	Rita Zohar
+74210	Robert A. Silverman
+74211	Robert Joy
+74212	Sab Shimono
+74213	Tina Majorino
+74214	Zitto Kazann
+74215	Tom Wright
+74216	Bert Remsen
+74217	Bumper Robinson
+74218	Carrie Snodgress
+74219	Harry Belafonte
+74220	Judith Drake
+74221	Kelly Lynch
+74222	Margaret Avery
+74223	Sheryl Lee Ralph
+74224	Tom Nolan
+74225	Christina Applegate
+74226	Ellen Barkin
+74227	James Gammon
+74228	James Remar
+74229	Karen Huie
+74230	Marjoe Gortner
+74231	Pato Hoffmann
+74232	Robert Knott
+74233	Steve Reevis
+74234	Peter Jones
+74235	Bill Travers
+74236	Brian Smith
+74237	Harold E. Scott
+74238	Ivan Samson
+74239	Jean Kent
+74240	Josephine Middleton
+74241	Judith Furse
+74242	Michael Redgrave
+74243	Nigel Patrick
+74244	Ronald Howard
+74245	Sarah Lawson
+74246	Wilfrid Hyde-White
+74247	Ann Dowd
+74248	Anthony Heald
+74249	Art Evans
+74250	Christopher Curry
+74251	Daniel Stern
+74252	Jane Morris
+74253	Jon Polito
+74254	Kenny Johnson
+74255	Max Goldblatt
+74256	Michael Galeota
+74257	Michael O'Neill
+74258	Michael P. Byrne
+74259	Robert Donley
+74260	Alla A. Kazanskaya
+74261	Avangard Leontyev
+74262	Ingeborga Dapkunaite
+74263	Inna Ulyanova
+74264	Lyubov Rudneva
+74265	Nadezhda Mikhalkova
+74266	Nadia Mikhalkov
+74267	Nikita Mikhalkov
+74268	Nina Arkhipova
+74269	Oleg Menshikov
+74270	Svetlana Kryuchkova
+74271	Vladimir Ilyin
+74272	Vyacheslav Tikhonov
+74273	Yevgeny Mironov
+74274	Labina Mitevska
+74275	Abdurahan Salja
+74276	Gregoire Colin
+74277	Jay Villiers
+74278	Joe Gould
+74279	Josif Josifovski
+74280	Katrin Cartlidge
+74281	Kiro Ristevski
+74282	Meto Jovanovski
+74283	Milica Stojanova
+74284	Peter Needham
+74285	Phyllida Law
+74286	Rade Serbedzija
+74287	Rod Woodruff
+74288	Silvija Stojanovska
+74289	Albert Delpy
+74290	Andrea Eckert
+74291	Diabolo
+74292	Erni Mangold
+74293	Ethan Hawke
+74294	Hanno Pöschl
+74295	Haymon Maria Buttinger
+74296	John Sloss
+74297	Julie Delpy
+74298	Karl Bruckschwaiger
+74299	Louise Lemoine Torres
+74300	Marianne Plasteig
+74301	Peter Ily Huemer
+74302	Rodolphe Pauly
+74303	Tex Rubinowitz
+74304	Vernon Dobtcheff
+74305	Allison Robinson
+74306	Amos Crawley
+74307	Benjamin Barrett
+74308	Bradley Whitford
+74309	Brigette Wilson
+74310	Chris Farley
+74311	Claire Cellucci
+74312	Colin Smith
+74313	Darren McGavin
+74314	Diane Douglass
+74315	Gladys O'Connor
+74316	Helen Hughes
+74317	Hrant Alianak
+74318	Joyce Gordon
+74319	Justin Williams
+74320	Larry Hankin
+74321	Lawrence Nakamura
+74322	Marcia Bennett
+74323	Mark Beltzman
+74324	Norm Macdonald
+74325	Tex Konig
+74326	Theresa Merritt
+74327	Katherine Waterston
+74328	Andy Comeau
+74329	Cynthia Nixon
+74330	Denis O'Hare
+74331	Halley Wegryn Gross
+74332	Jason Dubin
+74333	Lauren Birkell
+74334	Louisa Krause
+74335	Spencer Treat Clark
+74336	Aaron Lustig
+74337	Amy Aquino
+74338	Anita Gillette
+74339	Billy Wirth
+74340	Danielle Shuman
+74341	Dennis Boutsikaris
+74342	Estelle Parsons
+74343	Gedde Watanabe
+74344	Jill C. Klein
+74345	Josh Segal
+74346	Jude Ciccolella
+74347	Mary-Louise Parker
+74348	Matthew McConaughey
+74349	Niecy Nash
+74350	Stan Egi
+74351	John Lynch
+74352	Aeryk Egan
+74353	Andrew Broder
+74354	Annabella Sciorra
+74355	Bill Schoppert
+74356	Craig Gierl
+74357	Dale Handevidt
+74358	David Alan Smith
+74359	Delia Jurek
+74360	Delphine French
+74361	Diana Scarwid
+74362	Fran Korba
+74363	Jeremy Howard
+74364	John Beasley
+74365	Laurie A. Sinclair
+74366	Mary McCusker
+74367	Mona Powell
+74368	Mychael T. Rambo
+74369	Peter Moore
+74370	Raymond Nelson
+74371	Rodney W. England
+74372	Rosemary Corman
+74373	Samantha Lemole
+74374	Scott Stockton
+74375	Shirley Venard
+74376	Stephen D'Ambrose
+74377	Barbara Crampton
+74378	Jeffrey Combs
+74379	Jonathan Fuller
+74380	Luca Zingaretti
+74381	Marco Stefanelli
+74382	Massimo Sarchielli
+74383	Raffaella Offidani
+74384	Aidan Gillen
+74385	Britta Smith
+74386	Colin Firth
+74387	Geraldine O'Rawe
+74388	Gerry Walsh
+74389	Ingrid Craigie
+74390	Jason Barry
+74391	Marie Conmee
+74392	Marie Mullen
+74393	Mick Lally
+74394	Pauline Delaney
+74395	Saffron Burrows
+74396	Seamus Ford (II)
+74397	Tony Doyle
+74398	Grace Smith
+74399	Jeff Anderson
+74400	Ken Clark
+74401	Leslie Hope
+74402	Lisa Spoonauer
+74403	Lisa Spoonhauer
+74404	Marilyn Ghigliotti
+74405	Virginia Smith
+74406	Al Corley
+74407	Bob Dishy
+74408	Franc Luz
+74409	Geraldine Pailhas
+74410	Gilbert Lewis
+74411	Jo Champa
+74412	Ken Gutstein
+74413	Marita Geraghty
+74414	Marlon Brando
+74415	Nada Despotovich
+74416	Nick LaTour
+74417	Sanjay
+74418	Santiago Garcia
+74419	Sara Mansfield
+74420	Teresa Hughes
+74421	Allan Rich
+74422	Donal Logue
+74423	Donald Sutherland
+74424	Dylan Baker
+74425	Edward Power
+74426	Jacqueline Kim
+74427	Jeff Joy
+74428	Kate Williamson
+74429	Lynn Tufeld
+74430	Lynne Killmeyer
+74431	Marie Rowe
+74432	Michael Runyard
+74433	Nancy Yee
+74434	Nicholas Sadler
+74435	Pat Asanti
+74436	Ralph Tabakin
+74437	Rosemary Forsyth
+74438	Suzie Plakson
+74439	Abigail Van Alyn
+74440	Al Hart
+74441	Al Nalbandian
+74442	Anders Johnson
+74443	Anne Lawder
+74444	Annie Stocking
+74445	Bill Reddick
+74446	Bob Safford
+74447	Cab Covay
+74448	Corin Nemec
+74449	David Booth
+74450	Dean Goodman
+74451	Ed Loerke
+74452	Frederic Forrest
+74453	Hope Alexander-Willis
+74454	James Cranna
+74455	Jane Jenkins
+74456	Janet Hirshenson
+74457	Jeanette Lana Sartain
+74458	Jessie Nelson
+74459	Jim Giovanni
+74460	Joe Flood
+74461	Joe Lerer
+74462	John X. Heart
+74463	Joseph Miksak
+74464	Ken Grantham
+74465	Larry Menkin
+74466	Leonard Gardner
+74467	Lloyd Bridges
+74468	Mako
+74469	Mark Anger
+74470	Mary Buffett
+74471	Morgan Upton
+74472	Patti Austin
+74473	Peter Donat
+74474	Roland Scrivner
+74475	Ron Close
+74476	Sandy Bull
+74477	Scott Beach
+74478	Taylor Gilbert
+74479	Taylor Young
+74480	Charles Boswell
+74481	Claire Stansfield
+74482	Dale Swann
+74483	D.D. Howard
+74484	Gary Busey
+74485	Grace Zabriskie
+74486	Julie Warner
+74487	Keith MacKechnie
+74488	Kyle Secor
+74489	Luca Bercovici
+74490	Malcolm-Jamal Warner
+74491	Melanie Mayron
+74492	Michael Jeeter
+74493	Mickey Jones
+74494	Robert La Sardo
+74495	Robert LaSardo
+74496	Ron Kuhlman
+74497	Sam Hennings
+74498	Tim Powell
+74499	Tracey Walter
+74500	David Cross
+74501	Allen Garfield
+74502	Bobcat Goldthwait
+74503	G. Basbayar
+74504	James Le Gros
+74505	Janet Carroll
+74506	Lisa Jane Persky
+74507	Michael O'Connell
+74508	Nancy Travis
+74509	Ralph Brannen
+74510	Carlos Moreno
+74511	Eduardo Valenzuela
+74512	Jonathan Vega
+74513	Jorge Cruz
+74514	Krystia Mova
+74515	Rodolphe Vega
+74516	Sergio Ortega Alvarado
+74517	Stuart Wilson
+74518	Christopher Plummer
+74519	Frank Adamson
+74520	Jennifer Jason Leigh
+74521	John Benjamin Hickey
+74522	John C. Reilly
+74523	Judy Parett
+74524	Judy Parfitt
+74525	Kathy Bates
+74526	Vernon Steel
+74527	Brady Bluhm
+74528	Cam Neely
+74529	Clint Allen
+74530	Connie Sawyer
+74531	Felton Perry
+74532	Hank Brandt
+74533	Helen Boll
+74534	Hillary Matthews
+74535	Jeff Daniels
+74536	Karen Duffy
+74537	Lin Shaye
+74538	Mark Levine
+74539	Rob Moran
+74540	Teri Garr
+74541	Victoria Rowell
+74542	Wu Chien-lien
+74543	Ah-Leh Gua
+74544	Chao-jung Chen
+74545	Chien-lien Wu
+74546	Lester Chen
+74547	Lester Chit-Man Chan
+74548	Sihung Lung
+74549	Sylvia Chang
+74550	Winston Chao
+74551	Kuei-Mei Yang
+74552	Yu-Wen Wang
+74553	Arsinée Khanjian
+74554	Bruce Greenwood
+74555	Calvin Green
+74556	Damon D'Oliveira
+74557	David Hemblen
+74558	Jack Blum
+74559	Ken McDougall
+74560	Peter Krantz
+74561	Sarah Polley
+74562	John Schneider
+74563	Joyce Brothers
+74564	Iman
+74565	Alison Moir
+74566	Allan Kent
+74567	Arnold Margolin
+74568	Barbara Marshall
+74569	Bud Markowitz
+74570	Dana Delany
+74571	Deborah Pratt
+74572	Diana Kent
+74573	Diane Frazen
+74574	Don Hood
+74575	Ed Cree
+74576	Frank Campanella
+74577	Gloria Hylton
+74578	Ira Glick
+74579	Joe Torry
+74580	Joey House
+74581	Judith Baldwin
+74582	Julie Hughes
+74583	Julie Paris
+74584	Kathleen Marshall
+74585	Laura Harring
+74586	Leslie A. Sank
+74587	Lori Marshall
+74588	Lou Evans
+74589	Lucinda Crosby
+74590	Lynda Goodfriend
+74591	Mandy Ingber
+74592	Marvin Braveman
+74593	Mel Novak
+74594	Pat Collins
+74595	Paul Mercurio
+74596	Phil Redrow
+74597	Réal Andrews
+74598	Rod Britt
+74599	Ronny Hallin
+74600	Scott Marshall
+74601	Shannon Wilcox
+74602	Stephanie Niznik
+74603	Stephen Perkins
+74604	Steve Restivo
+74605	Tim Wrightman
+74606	Valorie Massalas
+74607	Alan Martin
+74608	Biff Yeager
+74609	Bill Murray
+74610	Brent Hinkley
+74611	Carmen Filpi
+74612	Charles C. Stevenson Jr.
+74613	Clive Rosengren
+74614	Conrad Brooks
+74615	Danny Dayton
+74616	Edmund L. Shaff
+74617	Gene Lebell
+74618	George Steele
+74619	George 'The Animal' Steel...
+74620	Gregory Walcott
+74621	Gretchen Becker
+74622	Jeffrey Jones
+74623	Jim Myers
+74624	John Rice
+74625	Jonathan Ross
+74626	King Cotton
+74627	Korla Pandit
+74628	Leonard Termo
+74629	Lisa Marie
+74630	Lisa Malkiewicz
+74631	Mary Portser
+74632	Matthew Barry
+74633	Maurice LaMarche
+74634	Max Casella
+74635	Melora Walters
+74636	Mickey Cottrell
+74637	Ned Bellamy
+74638	Norman Alden
+74639	Ralph Monaco
+74640	Ray Baker
+74641	Reid Cruickshanks
+74642	Ric Mancini
+74643	Vasek Simek
+74644	Victoria Thomas
+74645	Adam Brooks
+74646	Alain Frerot
+74647	Barbara Schulz
+74648	Fausto Constantino
+74649	François Cluzet
+74650	Jean Reno
+74651	Jerry Harte
+74652	Kevin Kline
+74653	Laurent Spielvogel
+74654	Marie-Christine Adam
+74655	Michael Riley
+74656	Nicholas Hawtrey
+74657	Thomasine Heiner
+74658	Victor Garrivier
+74659	Allan Kolman
+74660	Andre Rosey Brown
+74661	Anthony C. Hall
+74662	Bernard Brown
+74663	Bert Copello
+74664	Bill Walton
+74665	Bill Laimbeer
+74666	Billy Crystal
+74667	Charles Barkley
+74668	David St. James
+74669	David Robinson
+74670	David Sanborn
+74671	Dawan Scott
+74672	Debra Winger
+74673	E.E. Bell
+74674	Gregory Paul Jackson
+74675	Irving Wasserman
+74676	Isiah Thomas
+74677	Janette Caldwell
+74678	Jo Farkas
+74679	John Spencer
+74680	Johnny Williams
+74681	Judyann Elder
+74682	Julie Kavner
+74683	Kareem Abdul-Jabbar
+74684	Ken Johnson
+74685	Kevin Johnson
+74686	Kevin Morris
+74687	Liz Sheridan
+74688	Marvin H. Albert
+74689	Mike McGee
+74690	Nigel Miguel
+74691	Patrick Ewing
+74692	Reggie Theus
+74693	Richard Assad
+74694	Richard Haje
+74695	Richard Masur
+74696	Robert Costanzo
+74697	Ron Ross
+74698	Rush Limbaugh
+74699	Sam Crawford
+74700	Spud Webb
+74701	Tim Halligan
+74702	William Hickey
+74703	Andrew Francis
+74704	Brent Stait
+74705	Dakotah
+74706	Dean Lockwood
+74707	Joel Palmer
+74708	Josh Wannamaker
+74709	Kath Soucie
+74710	Kevin Michael Richardson
+74711	Linda Phillips-Palo
+74712	Lynne Carrow
+74713	Margot Finley
+74714	Mimi Rogers
+74715	Julie Brown
+74716	Aaron Lohr
+74717	Brian Pimental
+74718	Brittany Alyse Smith
+74719	Carol Holliday
+74720	Corey Burton
+74721	Elizabeth Daily
+74722	Florence Stanley
+74723	Jason Willinger
+74724	Jenna von Oÿ
+74725	Jo Ann Worley
+74726	Joey Lawrence
+74727	Kellie Martin
+74728	Kevin Lima
+74729	Klee Bragger
+74730	Pat Buttram
+74731	Pat Carroll
+74732	Rob Paulsen
+74733	Robyn Richards
+74734	Sheryl Bernstein
+74735	Steven Dean Moore
+74736	Tevin Campbell
+74737	Wayne Allwine
+74738	Michael McDonald
+74739	Alicia Silverstone
+74740	Don S. Davis
+74741	Gaetana Korbin
+74742	Hiro Kanagawa
+74743	Joely Collins
+74744	Mara Duronslet
+74745	Rae Dawn Chong
+74746	Rebecca Toolan
+74747	Roger R. Cross
+74748	Shirley Broderick
+74749	Tom McBeath
+74750	Clarinda Ross
+74751	Federico Pacifici
+74752	Max Pomeranc
+74753	Caroline Cellier
+74754	Delphine Zentout
+74755	Elsa Zylberstein
+74756	Graham Valentine
+74757	Hubert Burczek
+74758	Jacques Boudet
+74759	Jeroen Krabb?4
+74760	Marianne Basler
+74761	Omero Antonutti
+74762	Pier Paolo Capponi
+74763	Renaud du Peloux de Saint...
+74764	Richard Reeves
+74765	Stefano Dionisi
+74766	Kenny Baker
+74767	Sam J. Jones
+74768	George Harris
+74769	Peter Duncan
+74770	Richard O'Brien
+74771	Richard Jones
+74772	Celeste
+74773	Andrew Bradford
+74774	Anthony Olivier
+74775	Bobbie Brown
+74776	Brian Blessed
+74777	Burnell Tucker
+74778	Chris Webb
+74779	Deep Roy
+74780	Eddie Powell
+74781	Eddie Stacey
+74782	Graeme Crowther
+74783	Imogen Claire
+74784	Irene Champlin
+74785	John Hallam
+74786	John Hollis
+74787	John Lees
+74788	John Morton
+74789	John Osborne
+74790	John Sullivan
+74791	Karen Johnson
+74792	Ken Roberson
+74793	Leon Greene
+74794	Leslie Crawford
+74795	Malcolm Dixon
+74796	Mariangela Melato
+74797	Marie Green
+74798	Melody Anderson
+74799	Michael Edmonds
+74800	Michael Potter
+74801	Mike Cottrell
+74802	Oliver MacGreevy
+74803	Ornella Muti
+74804	Peter Brace
+74805	Peter Wyngarde
+74806	Philip Stone
+74807	Racquel
+74808	Roy Scammell
+74809	Sophie
+74810	Stanley Lebor
+74811	Suzanne Danielle
+74812	Terry Forrestal
+74813	Terry Richards
+74814	Timothy Dalton
+74815	Tiny Ross
+74816	Topol
+74817	Trevor Ward
+74818	Alice Young
+74819	Art Clokey
+74820	Bonnie Rudolph
+74821	Charles Farrington
+74822	Dal McKennon
+74823	David Ozzie Ahlers
+74824	Gloria Clokey
+74825	Janet McDuff
+74826	Manny La Carruba
+74827	Patti Morse
+74828	Don Harvey
+74829	Elliott Gould
+74830	Erich Anderson
+74831	Ice Cube
+74832	Lori Petty
+74833	Michael Boatman
+74834	Richard Anderson
+74835	Sy Richardson
+74836	Tommy Redmond Hicks
+74837	Victoria Dillard
+74838	Wanda De Jesus
+74839	Aretha Mitchell
+74840	Arthur Agee
+74841	Arthur 'Bo' Agee
+74842	Bill Gleason
+74843	Bobby Knight
+74844	Curtis Gates
+74845	Dick Vitale
+74846	Earl Smith
+74847	Emma Gates
+74848	Gene Pingatore
+74849	Kevin J. O'Neill
+74850	Luther Bedford
+74851	Marjorie Heard
+74852	Patricia Weir
+74853	Sheila Age
+74854	Sheila Agee
+74855	Sister Marlyn Hopewell
+74856	William Gates
+74857	Barry Thomson
+74858	Elizabeth Moody
+74859	Jed Brophy
+74860	Kirsti Ferry
+74861	Liz Mullane
+74862	Melanie Lynskey
+74863	Peter Jackson
+74864	Ray Henwood
+74865	Sarah Peirse
+74866	Simon O'Connor
+74867	Alex Coleman
+74868	Bingo O'Malley
+74869	Chuck Aber
+74870	David Earle
+74871	Don Brockett
+74872	Jan Eddy
+74873	Jody Savin
+74874	Kate Young
+74875	Kevin Jordan
+74876	Kim Greist
+74877	Kim Murphy
+74878	Kirk Baily
+74879	Lisa Davis
+74880	Marilyn Eastman
+74881	Mason Adams
+74882	Paul Ben-Victor
+74883	Phil Hartman
+74884	Randall Miller
+74885	Ron Glass
+74886	Sinbad
+74887	Susan Chapek
+74888	Susan Richards
+74889	Talia Seider
+74890	Tina Benko
+74891	Tony Longo
+74892	Valerie Long
+74893	Vickie Ross-Norris
+74894	Wynonna Smith
+74895	Johanna ter Steege
+74896	Alexandra Pigg
+74897	Barbora Srncova
+74898	Barry Humphries
+74899	Bernard Rose
+74900	Bruce Davey
+74901	Christopher Fulford
+74902	Geno Lechner
+74903	Isabella Rossellini
+74904	Jeroen Krabb?2
+74905	Luigi Diberti
+74906	Marco Hofschneider
+74907	Marek Vasut
+74908	Matthew North
+74909	Michael Culkin
+74910	Petr Pospichal
+74911	Sandra Voe
+74912	Tomás Hanák
+74913	Aaron Schwartz
+74914	Anne Meara
+74915	Bobby Fain
+74916	Jerry Stiller
+74917	Kenan Thompson
+74918	Leah Lail
+74919	Paul Feig
+74920	Shaun Weiss
+74921	Tom Hodges
+74922	Connie Nielsen
+74923	Eddie Velez
+74924	Jenna Boyd
+74925	Leslie Stefanson
+74926	Lonny Chapman
+74927	Mark Pellegrino
+74928	Alice Playten
+74929	Danny Zorn
+74930	Gene Saks
+74931	Helen Hanft
+74932	Joseph Maher
+74933	Keene Curtis
+74934	Leo Leyden
+74935	Lewis J. Stadlen
+74936	Lou Jacobi
+74937	Rex Robbins
+74938	Richard Woods
+74939	Scotty Bloch
+74940	Sol Frieder
+74941	Stephen Fry
+74942	Tim Jerome
+74943	Tim Robbins
+74944	Tony Shalhoub
+74945	Andrew Tiernan
+74946	Bellina Logan
+74947	Brad Pitt
+74948	Domiziana Giordano
+74949	George Kelly
+74950	Helen McCrory
+74951	John McConnell
+74952	John "Spud" McConnell
+74953	Juliet Taylor
+74954	Katia Caballero
+74955	Laure Marsac
+74956	Lyla Kay Owen
+74957	Marcel Iures
+74958	Micha Bergese
+74959	Miranda Richardson
+74960	Monte Montague
+74961	Roger Lloyd Pack
+74962	Sarah Stockbridge
+74963	Stephen Rea
+74964	Susan Lynch
+74965	Susie Figgis
+74966	Tom Cruise
+74967	Virginia McCollam
+74968	Andr?Julien
+74969	Anthony Valentine
+74970	Bruno Putzulu
+74971	Catherine Chevalier
+74972	Charlotte de Turckheim
+74973	Cicely Tyson
+74974	Daniel Mesguich
+74975	Elizabeth Kaza
+74976	Estelle Eonnet
+74977	Greta Scacchi
+74978	Herve Hiolle
+74979	Humbert Balsan
+74980	Ismail Merchant
+74981	Jacques Herlin
+74982	Jean-François Perrier
+74983	Jean-Pierre Aumont
+74984	Lambert Wilson
+74985	Laure Killing
+74986	Marisa Berenson
+74987	Martine Sarcey
+74988	Michael Lonsdale
+74989	Michel Lonsdale
+74990	Nancy Marchand
+74991	Nick Nolte
+74992	Nicolas Silberg
+74993	Nigel Whitney
+74994	Philippe Girard
+74995	Philippe Mareuil
+74996	Philippine Leroy-Beaulieu
+74997	Seth Gilliam
+74998	Stanislas Carre de Malber...
+74999	Steve Kalfa
+75000	Thibault de Montalembert
+75001	Tim Choate
+75002	Todd Boyce
+75003	Yvette Petit
+75004	Alan North
+75005	Brenda Forbes
+75006	Danny Dennis
+75007	David Stepkin
+75008	Frank Senger
+75009	Garfield
+75010	James Lorinz
+75011	Jerry Dunphy
+75012	Joe Lisi
+75013	John G. Brennan
+75014	John Stanier
+75015	Johnny Brennan
+75016	Jorja Fox
+75017	Kamal Ahmed
+75018	Ozzy Osbourne
+75019	Peter Appel
+75020	Robert Weil
+75021	Ron Ostrow
+75022	Susan Blommaert
+75023	Suzanne Shepherd
+75024	Tom Jones
+75025	Arnold Schwarzenegger
+75026	Cassandra Wilson
+75027	Charles McGowan
+75028	Christopher Meloni
+75029	Dean Jacobson
+75030	Dee Hengstler
+75031	Ellen McLaughlin
+75032	Holly Wortell
+75033	Ira Newborn
+75034	James Eckhouse
+75035	Jerald Vincent
+75036	Judy Collins
+75037	Judy Ovitz
+75038	Kathleen Chalfant
+75039	Kevin Sifuentes
+75040	Lawrence Tierney
+75041	Maggie Han
+75042	Maggy Myers Davidson
+75043	Mary Gordon Murray
+75044	Matt Mulhern
+75045	Merle Kennedy
+75046	Michele Abrams
+75047	Mindy Seeger
+75048	Monika Schnarre
+75049	Pamela Reed
+75050	Stefan Gierasch
+75051	Tom Dugan
+75052	Welker White
+75053	Blair Underwood
+75054	Brooke Alderson
+75055	Chris Sarandon
+75056	Christopher Murray
+75057	Colleen Fitzpatrick
+75058	Daniel J. Travanti
+75059	Gary Landon Mills
+75060	Hope Lange
+75061	Liz Torres
+75062	Lynne Thigpen
+75063	Melanie Hughes
+75064	Ned Beatty
+75065	Richard Liberty
+75066	Ruby Dee
+75067	Taral Hicks
+75068	Art Malik
+75069	Barry Stanton
+75070	Catherine Blake
+75071	Daniel Craig
+75072	Debora Weston
+75073	Joss Ackland
+75074	J.P. Guerin
+75075	Paloma Baeza
+75076	Ron Moody
+75077	Shane Rimmer
+75078	Thomas Ian Nicholas
+75079	Vincent Marzello
+75080	Alex Stevens
+75081	Bernadette Penotti
+75082	David Caruso
+75083	Edward McDonald
+75084	Frank Di Leo
+75085	Henry Yuk
+75086	Jason Andrews
+75087	Joe Pentangelo
+75088	John Costelloe
+75089	Kathryn Erbe
+75090	Katie Sagona
+75091	Lindsay J. Wrinn
+75092	Lloyd Hollar
+75093	Mark Hammer
+75094	Megan L. Wrinn
+75095	Philip Baker Hall
+75096	Richard Price
+75097	Shiek Mahmud-Bey
+75098	Tom Riis Farrell
+75099	Tony Cucci
+75100	Ving Rhames
+75101	Anthony Daniels
+75102	Carrie Fisher
+75103	David Prowse
+75104	Denis Lawson
+75105	Harrison Ford
+75106	Mark Hamill
+75107	Peter Cushing
+75108	Laural Merlington
+75109	Arthur Malet
+75110	Camilla Belle
+75111	David Fresco
+75112	Eleanor Bron
+75113	Heather DeLoach
+75114	Kaitlin Cullum
+75115	Kelsey Mulrooney
+75116	Liesel Matthews
+75117	Lomax Study
+75118	Nathaniel Merrill
+75119	Rachael Bella
+75120	Robert P. Cohen
+75121	Rusty Schwimmer
+75122	Taylor Fry
+75123	Vanessa Lee Chester
+75124	Bruce Alexander
+75125	Clare Pekins
+75126	Crissy Rock
+75127	Jason Stracey
+75128	Lily Farrell
+75129	Linda Ross
+75130	Luke Brown
+75131	Mauricio González Venegas
+75132	Ray Winstone
+75133	Sandie Lavelle
+75134	Stephen Webber
+75135	Tom Keller
+75136	Vladimir Vega
+75137	Andr?Wilms
+75138	Christiane Minazzoli
+75139	Christine Minazzoli
+75140	Dora Doll
+75141	Emmanuelle Béart
+75142	Jean-Pierre Cassel
+75143	Marc Lavoine
+75144	Mario David
+75145	Nathalie Cardone
+75146	Noel Simsolo
+75147	Pierre-Francois Dumeniaud
+75148	Sophie Artur
+75149	Thomas Chabrol
+75150	Yves Verhoeven
+75151	Ada Carrasco
+75152	Arcelia Ramirez
+75153	Brigida Alexander
+75154	Claudette Maille
+75155	Farnesio DeBernal
+75156	Joaquin Garrido
+75157	Marco Leonardi
+75158	Margarita Isabel
+75159	Mario Ivan Martinez
+75160	Pilar Aranda
+75161	Regina Torn?3
+75162	Regino Herrerra
+75163	Robert M. Martinez
+75164	Rodolfo Arias
+75165	Chris Smither
+75166	Steven Martini
+75167	Andrew Harrison Leeds
+75168	Carolyn Walker
+75169	Chris Owen
+75170	Dean Lorey
+75171	Hechter Ubarry
+75172	Joda Blaire
+75173	John Louis Fischer
+75174	Karyn Parsons
+75175	Michael Gabel
+75176	Ross Bickell
+75177	Scott 'Bam Bam' Bigelow
+75178	David Vadim
+75179	Maximilian Schell
+75180	Mina Bern
+75181	Natalya Andreichenko
+75182	Vanessa Redgrave
+75183	Abbe Wool
+75184	Angel Aviles
+75185	Bertila Damas
+75186	Carlos Rivas
+75187	Christina Solis
+75188	David Hidalgo
+75189	Gabriel Gonzalez
+75190	Guy Boyd
+75191	Jesse Borrego
+75192	Jonathan Chapin
+75193	Julian Reyes
+75194	Kurt Voss
+75195	Leigh Hamilton
+75196	Magali Alvarado
+75197	Marabina Jaimes
+75198	Marcus De Leon
+75199	Marlo Marron
+75200	Maurice Benard
+75201	Monica Lutton
+75202	Nelida Lopez
+75203	Nicole Holofcener
+75204	Noah Verduzco
+75205	Panchito Gomez
+75206	Ricardo Salinas
+75207	Seidy Lopez
+75208	Sissy Boyd
+75209	Spike Jonze
+75210	Susan Bertram
+75211	Tiffany Anders
+75212	Barry Miller
+75213	Boris Krutonog
+75214	Brenda Vaccaro
+75215	Chloe Webb
+75216	Cylk Cozart
+75217	Dan Castellaneta
+75218	Ed McMahon
+75219	Elya Baskin
+75220	Garry Shandling
+75221	Gary McGurk
+75222	Harold Ramis
+75223	Helena Carroll
+75224	Herman Sinitzyn
+75225	James Pyduck
+75226	Jeffrey Nordling
+75227	John Hostetter
+75228	John Tesh
+75229	Katharine Hepburn
+75230	Linda Wallem
+75231	Lisa Edelstein
+75232	Manu Tupou
+75233	Marek Probosz
+75234	Mary Hart
+75235	Meagen Fay
+75236	Michael Fischetti
+75237	Oleg Vidov
+75238	Paul Mazursky
+75239	Ray Charles
+75240	Rebecca Miller
+75241	Robert Levine
+75242	Rosalind Allen
+75243	Rosalind Chao
+75244	Savely Kramarov
+75245	Taylor Dayne
+75246	Warren Beatty
+75247	Wendie Jo Sperber
+75248	Cuba Gooding Jr.
+75249	Daisy Eagan
+75250	Jacqueline Brookes
+75251	Joie Lee
+75252	La Tanya Richardson
+75253	Marc John Jefferies
+75254	Alan Bennett
+75255	Amanda Donohoe
+75256	Anthony Calf
+75257	Cyril Shaps
+75258	David Leon
+75259	Geoffrey Palmer
+75260	Helen Mirren
+75261	Ian Holm
+75262	Janine Duvitski
+75263	Jeremy Child
+75264	Joanna Hall
+75265	Julian Rhind-Tutt
+75266	Nicholas Selby
+75267	Peter Woodthorpe
+75268	Robert Swann
+75269	Roger Ashton-Griffiths
+75270	Rupert Graves
+75271	Russell Martin
+75272	Selina Cadell
+75273	Struan Rodger
+75274	Lionel Belmore
+75275	Arletta Duncan
+75276	Boris Karloff
+75277	Colin Clive
+75278	Dwight Frye
+75279	Edward Van Sloan
+75280	Francis Ford
+75281	Frederick Kerr
+75282	John Boles
+75283	Mae Clarke
+75284	Marilyn Harris
+75285	Michael Mark
+75286	Pauline Moore
+75287	Anne Archer
+75288	Brian Van Holt
+75289	Cedric the Entertainer
+75290	Christina Milian
+75291	James Richard Perry
+75292	Kelli Garner
+75293	Liz Vassey
+75294	Monica Keena
+75295	Paget Brewster
+75296	Shannon Marie Woodward
+75297	Shea Whigham
+75298	Terry Parks
+75299	Vanessa Ferlito
+75300	Anthony LaPaglia
+75301	Caroline Aaron
+75302	Diane Sokolow
+75303	Haley Joel Osment
+75304	Henry Brown
+75305	Joely Fisher
+75306	Jon Stewart
+75307	Mary Gross
+75308	Rob Reiner
+75309	Sidney Armus
+75310	Adam LaVorgna
+75311	Amanda Sharkey
+75312	Ann Baker
+75313	Brian Christopher
+75314	Casey Siemaszko
+75315	Don Roberts
+75316	Jacquelyn K. Koch
+75317	John Alvin
+75318	Julia Montgomery
+75319	Mark Pennell
+75320	Mary Goldberg
+75321	Michael Conn
+75322	Michael Patrick Carter
+75323	William L. Schwarber
+75324	Alvin Greenman
+75325	Alvin Hammer
+75326	Anne O'Neal
+75327	Anthony Sydes
+75328	Basil Walker
+75329	Edmund Gwenn
+75330	Gene Lockhart
+75331	Guy Thomajan
+75332	Harry Antrim
+75333	Harry "Snub" Pollard
+75334	Herbert Heyes
+75335	Jack Albertson
+75336	James Seay
+75337	Jane Green
+75338	Jeff Corey
+75339	Jerome Cowan
+75340	John Payne
+75341	Lela Bliss
+75342	Mary Field
+75343	Maureen O'Hara
+75344	Natalie Wood
+75345	Percy Helton
+75346	Philip Tonge
+75347	Porter Hall
+75348	Richard Irving
+75349	Robert Gist
+75350	Robert Hyatt
+75351	Robert Karnes
+75352	Robert Lynn
+75353	Steve Roberts
+75354	Teddy Driver
+75355	Thelma Ritter
+75356	Theresa Harris
+75357	William Forrest
+75358	William Frawley
+75359	Barbara Garrick
+75360	Bo Eason
+75361	Carla Gugino
+75362	Gil Bellows
+75363	Kelly Bishop
+75364	Lisa Banes
+75365	Mark Blum
+75366	Mia Farrow
+75367	Norman Steinberg
+75368	Abel Woolrich
+75369	Alicia del Lago
+75370	Amelia Zapata
+75371	Angelina Estrada
+75372	Bibi Besch
+75373	Constance Marie
+75374	Delana Michaels
+75375	Eduardo Lopez Rojas
+75376	Edward James Olmos
+75377	Elpidia Carrillo
+75378	Enrique Castillo
+75379	Enrique J. Castillo
+75380	Ernie Lively
+75381	Esai Morales
+75382	Ivette Reina
+75383	Jimmy Smits
+75384	Leon Singer
+75385	Lupe Ontiveros
+75386	Maria Canals
+75387	Michael De Lorenzo
+75388	Michael Tomlinson
+75389	Peter Mark Vasquez
+75390	Rafael Cortés
+75391	Rosalee Mayeux
+75392	Ruben Sierra
+75393	Saachiko
+75394	Samuel Hernandez
+75395	Susana Campos
+75396	Valente Rodriguez
+75397	Valerie Wildman
+75398	Ben Slack
+75399	Brad Dourif
+75400	Douglas Bennett
+75401	Eddie Bowz
+75402	Eve Brenner
+75403	Gary Ballard
+75404	Gary Lee Davis
+75405	George Maguire
+75406	James Keane
+75407	Michael Merrins
+75408	Michael Melvin
+75409	Neil Summers
+75410	Randy Pelish
+75411	Rob Lee
+75412	Sheldon Feldner
+75413	Stephen Tobolowsky
+75414	Tony Barr
+75415	Wally Rose
+75416	William Hall
+75417	Charlie Barnett
+75418	Eric Roberts
+75419	Alma Beltran
+75420	Ann Hearn
+75421	Arwen Nichols
+75422	Becky Bell Maxwell
+75423	Belita Moreno
+75424	Beth Henley
+75425	Bonnie Oda Homsey
+75426	Brian Fitzgerald
+75427	Brian West
+75428	Budge Threlkeld
+75429	Cheli Chew
+75430	Christopher Michael Johns...
+75431	Dean Ricca
+75432	Derek Barnes
+75433	Diane Costa
+75434	Fred Bailey
+75435	Gwen Welles
+75436	Jay Dusard
+75437	Jim Youngs
+75438	J.J. Hardy
+75439	Joe Clarke
+75440	John Hoover
+75441	Kat
+75442	Kat Barbara Brown
+75443	Kay Pasa
+75444	Kristy Kennedy
+75445	Lewis Arquette
+75446	Lisa de Bennedetti
+75447	Loraine Wallace
+75448	Louise Fletcher
+75449	Marcha Hicks
+75450	Mare Winningham
+75451	Mark Atkinson
+75452	Mark Sanders
+75453	Melissa Grier
+75454	Natalie Golden
+75455	Paul E. Pinnt
+75456	Rod Hart
+75457	Ronnie Claire Edwards
+75458	Rosanna Arquette
+75459	Scott Rosensweig
+75460	Sheila Paige
+75461	Walt Zandt
+75462	William Steis
+75463	Wylie Small
+75464	Dana Stevens
+75465	Jeremy Davies
+75466	Joe Inscoe
+75467	Marlon Jackson
+75468	Natasha Richardson
+75469	Nick Searcy
+75470	Richard Libertini
+75471	Robin Mullins
+75472	Robin Rochelle
+75473	Andre Moore
+75474	Conrad Meertins Jr.
+75475	Devin Eggleston
+75476	Dwight Errington Myers
+75477	Gabriel Casseus
+75478	Gary DeWitt Marshall
+75479	Gwen McGee
+75480	Koran C. Thomas
+75481	Michèle Morgan
+75482	Robert Jason Jackson
+75483	Roscoe Orman
+75484	Samantha Brown
+75485	Sharron Corley
+75486	Chad McQueen
+75487	Tôru Nakamura
+75488	Anita Dobson
+75489	Carl Proctor
+75490	Craig Fairbrass
+75491	Craig Kelly
+75492	Elizabeth Hurley
+75493	Faith Kent
+75494	Georgina Hale
+75495	Jack McKenzie
+75496	Jesse Birdsall
+75497	Jim Groom
+75498	Keith Allen
+75499	Natasha Humphrey
+75500	Paul Brooks
+75501	Samantha Spiro
+75502	Stephen Brand
+75503	Zoe Hayes
+75504	Bobby Brown
+75505	Chad Staholaki
+75506	Earl White (II)
+75507	Jahi J J Zuri
+75508	Michael Halsey
+75509	Sue Price (II)
+75510	Tina Cote
+75511	Tracy Davis
+75512	Alan Lightner
+75513	Carter Collins
+75514	Cristi Conaway
+75515	Laura San Giacomo
+75516	Michelle Koeppe
+75517	Paul Rhys
+75518	Vincent Lars
+75519	Billy Hopkins
+75520	Bob Swan
+75521	Ed White
+75522	Edie McClurg
+75523	Evan Handler
+75524	Everett Quinton
+75525	Glen Chin
+75526	Heidi Levitt
+75527	Jack Palance
+75528	Jake Beecham
+75529	Jerry Gardner
+75530	John M. Watson Sr.
+75531	Josh Richman
+75532	Kirk Baltz
+75533	Maria Pitillo
+75534	Mark Harmon
+75535	Matthew Faber
+75536	O-Lan Jones
+75537	Peter Crombie
+75538	Phil Neilson
+75539	Red West
+75540	Richard Lineback
+75541	Risa Bramon Garcia
+75542	Robert "R.J." Jordan
+75543	Adam Le Fevre
+75544	Antonia Rey
+75545	Barbara Cupisti
+75546	Billy Zane
+75547	Diane Jones
+75548	Fausto Lombardi
+75549	Fiorenzo Fiorentini
+75550	Gianfranco Barra
+75551	K.J. Roberts
+75552	Mattia Sbragia
+75553	Phyllis Newman
+75554	Sergio Pierattini
+75555	Shari Summers
+75556	Siobhan Fallon
+75557	George Henare
+75558	Ian Mune
+75559	Jessica Wilcox
+75560	Joseph Kairau
+75561	Julian Arahanga
+75562	Julian "Sonny" Arahanga
+75563	Mamaengaroa Kerr-Bell
+75564	Pete Smith
+75565	Rachael Morris Jr.
+75566	Rena Owen
+75567	Richard Mehana
+75568	Riwia Brown
+75569	Shannon Walker Williams
+75570	Stephen Hall
+75571	Taungaroa Emile
+75572	Te Whatanui Skimworth
+75573	Temuera Morrison
+75574	Wiki Oman
+75575	Alyssa Milano
+75576	Belinda Bauer
+75577	Howard Brown
+75578	Mychal Wilson
+75579	Victoria Haas
+75580	Mark Brown
+75581	Bill Stevenson
+75582	Bruce Jarchow
+75583	Conrad Bachmann
+75584	Cynthia Harrison
+75585	Dana Anderson
+75586	Daniel Chodes
+75587	Diana Bellamy
+75588	Dustin Hoffman
+75589	Ed Beechner
+75590	George Christy
+75591	Jack Rader
+75592	Jim Antonio
+75593	Kellie Overbey
+75594	Lance Kerwin
+75595	Leland Hayward III
+75596	Malick Bowens
+75597	Michael Sottile
+75598	Michelle Joyner
+75599	Morgan Freeman
+75600	Patricia Place
+75601	Patrick Dempsey
+75602	Peter Looney
+75603	Robert Alan Beuth
+75604	Susan Lee Hoffman
+75605	Tim Ransom
+75606	George Martin
+75607	Randolph Scott
+75608	Abdul Hassan Sharif
+75609	Betty Miller
+75610	Carl J. Matusovich
+75611	David W. Butler
+75612	Elizabeth Regen
+75613	Ellen Greene
+75614	Geoffrey Bateman
+75615	Jean-Hugues Anglade
+75616	Jessie Keosian
+75617	Joseph Malerba
+75618	Kent Broadhurst
+75619	Marc Andreoni
+75620	Mario Todisco
+75621	Michel Montanary
+75622	Randy Pearlstein
+75623	Samy Naceri
+75624	Stuart Rudin
+75625	Tommy Hollis
+75626	Ana Carballosa
+75627	Angela Lanza
+75628	Ángeles González Sinde
+75629	Bernard Fouquet
+75630	Celia Cruz
+75631	Diego Wallraff
+75632	Florencio Santana
+75633	Glenda Diaz Rigau
+75634	Gustavo Laborie
+75635	Jorge Luis Ramone
+75636	Jos?Felipe Padron
+75637	Lázaro Pérez
+75638	Luis Raul
+75639	Luis Torres
+75640	Magaly Aguelo
+75641	Melissa Anne Acosta
+75642	Melissa Ramone
+75643	Mira Nair
+75644	Norman Max Maxwell
+75645	Oscar Gonzalez
+75646	Paloma Delaijrentil
+75647	Ranjit Chowdhry
+75648	Robert Escobar
+75649	Roberto Escobar
+75650	Sandor Juan
+75651	Sarita Choudhury
+75652	Trini Alvarado
+75653	Vincent Gallo
+75654	Armin Mueller-Stahl
+75655	Babs Chula
+75656	Elena Kudaba
+75657	Erika Eleniak
+75658	Floyd Vivino
+75659	Michael Lerner
+75660	Michael Tait
+75661	Richard Crenna
+75662	Sadie Frost
+75663	Alexis Arquette
+75664	Angela Jones
+75665	Burr Steers
+75666	Dick Miller
+75667	Duane Whitaker
+75668	Emil Sitka
+75669	Eric Clark
+75670	Joseph Pilato
+75671	Julia Sweeney
+75672	Linda Kaye
+75673	Lorelei Leslie
+75674	Maria de Medeiros
+75675	Michael Gilden
+75676	Phil LaMarr
+75677	Rich Turner
+75678	Robert Ruth
+75679	Stephen Hibbert
+75680	Susan Griffiths
+75681	Venessia Valentino
+75682	Aishwarya Rai
+75683	Aishwarya Rai Abhishek Ba...
+75684	Emily Mortimer
+75685	John Cleese
+75686	Yuki Matsuzaki
+75687	Bo Z. Wang
+75688	Deb Snyder
+75689	Haan Lee
+75690	Lai Wang
+75691	Kevin Jones
+75692	Billy Dean
+75693	Cathy Tyson
+75694	Christine Tremarco
+75695	Fred Pearson
+75696	Gilly Coman
+75697	James Ellis
+75698	Jimmy Coleman
+75699	John Bennett
+75700	Lesley Sharp
+75701	Linus Roache
+75702	Mandy Walsh
+75703	Matyelok Gibbs
+75704	Ray Williams
+75705	Rio Fanning
+75706	Robert Pugh
+75707	Reno
+75708	Anthony Fusco
+75709	Barry Levinson
+75710	Barry Snider
+75711	Bernie Sheredy
+75712	Bill Cwikowski
+75713	Bill Moor
+75714	Bruce Altman
+75715	Byron Jennings
+75716	Carole Shelley
+75717	Chuck Adamson
+75718	Douglas McGrath
+75719	Eddie Korbich
+75720	Elizabeth Wilson
+75721	Ernie Sabella
+75722	Grace Phillips
+75723	Gretchen Egolf
+75724	Griffin Dunne
+75725	Hamilton Fish IV
+75726	Illeana Douglas
+75727	Kelly Coffield Park
+75728	Merwin Goldsmith
+75729	Neil Leifer
+75730	Nicholas Kepros
+75731	Pat Russell
+75732	Paul Scofield
+75733	Shawn Batten
+75734	Steve Ryan
+75735	Timothy Busfield
+75736	Vince O'Brien
+75737	Akira Takayama
+75738	Yôko Sugi
+75739	Youki Kudoh
+75740	Yuki Kudoh
+75741	Carlos Lopez
+75742	Valeria Bruni Tedeschi
+75743	Asia Argento
+75744	Barbet Schroeder
+75745	Bernard Verley
+75746	Bruno Todeschini
+75747	Charles Nelson Reilly
+75748	Claudio Amendola
+75749	Daniel Auteuil
+75750	Daniel Breton
+75751	Emmanuel Salinger
+75752	Isabelle Adjani
+75753	Jean Douchet
+75754	Jean-Marc Stehle
+75755	Jean-Claude Brialy
+75756	Jean-Philippe Écoffey
+75757	Johan Leysen
+75758	Julien Rassam
+75759	Laurent Arnal
+75760	Marc Citti
+75761	Marina Golovine
+75762	Miguel Bos?9
+75763	Otto Tausig
+75764	Pascal Greggory
+75765	Philippe Duclos
+75766	Richard Bohringer
+75767	Thomas Kretschmann
+75768	Tolsty
+75769	Ulrich Wildgruber
+75770	Vincent Perez
+75771	Virna Lisi
+75772	Fay Masterson
+75773	Francine Maisler
+75774	Jerry Swindall
+75775	Jonothon Gill
+75776	Josef Rainer
+75777	Mark Boone Jr.
+75778	Mick Garris
+75779	Mike Stone
+75780	Oliver Dear
+75781	Olivia Burnette
+75782	Raynor Scheine
+75783	Roberts Blossom
+75784	Russell Crowe
+75785	Scott Ryder
+75786	Scott Spiegel
+75787	Tobin Bell
+75788	Woody Strode
+75789	David Tom
+75790	D.B. Sweeney
+75791	Frankie Faison
+75792	Jan Rubes
+75793	John E. Blazier
+75794	Joyce Reehling
+75795	Nelle Stokes
+75796	Noah Fleiss
+75797	Peter Falk
+75798	Raymond Wong
+75799	Scott Cohen
+75800	Willard Scott
+75801	Björk
+75802	Alexandra Van Der Noot
+75803	Andre Penvern
+75804	Anne Canovas
+75805	Anouk Aimée
+75806	Cher
+75807	Chiara Mastroianni
+75808	Georgianna Robertson
+75809	Jean Rochefort
+75810	Jean-Paul Gaultier
+75811	Kashia Figura
+75812	Kim Basinger
+75813	Laura Benson
+75814	Lauren Bacall
+75815	Lyle Lovett
+75816	Marcello Mastroianni
+75817	Maurice Lamy
+75818	Michel Blanc
+75819	Richard E. Grant
+75820	Rossy de Palma
+75821	Sally Kellerman
+75822	Sophia Loren
+75823	Tapa Sudana
+75824	Tara Leon
+75825	Tom Novembre
+75826	Tracey Ullman
+75827	Ute Lemper
+75828	Yann Collette
+75829	Federique Feder
+75830	Jean-Pierre Lorit
+75831	Samuel Le Bihan
+75832	Benoit Regent
+75833	Charlotte Véry
+75834	Claude Duneton
+75835	Florence Pernel
+75836	Hélène Vincent
+75837	Hugues Quester
+75838	Juliette Binoche
+75839	Philippe Volter
+75840	Grzegorz Warchol
+75841	Janusz Gajos
+75842	Zbigniew Zamachowski
+75843	Gao Yang
+75844	Jing Ning
+75845	Ning Jing
+75846	Wu Gang
+75847	Zhoa Xiaorui
+75848	Matt McCoy
+75849	Sherry  Miller
